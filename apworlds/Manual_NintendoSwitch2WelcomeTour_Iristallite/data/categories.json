@@ -1,0 +1,29 @@
+{
+  "accessory_4k_display":{
+    "hidden": true,
+    "yaml_option":["accessory_4k_display"]
+  },
+  "accessory_camera":{
+    "hidden": true,
+    "yaml_option":["accessory_camera"]
+  },
+  "accessory_gl_gr": {
+    "hidden": true,
+    "yaml_option": ["accessory_gl_gr"]
+  },
+  "minigames_medal_1": {
+    "hidden": true,
+    "yaml_option": ["minigames_medal_1"]
+  },
+  "minigames_medal_2": {
+    "hidden": true,
+    "yaml_option": ["minigames_medal_2"]
+  },
+  "minigames_medal_3": {
+    "hidden": true,
+    "yaml_option": ["minigames_medal_3"]
+  },
+  "techdemos_medal": {
+    "hidden": true
+  }
+}

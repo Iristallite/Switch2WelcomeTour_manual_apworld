@@ -1,0 +1,29 @@
+name: Player{number}
+description: Default Manual_Nintendo Switch 2 Welcome Tour_Iristallite template
+game: Manual_Nintendo Switch 2 Welcome Tour_Iristallite
+Manual_Nintendo Switch 2 Welcome Tour_Iristallite:
+  progression_balancing: 50
+  accessibility: full
+  ## Minigame difficulty
+  # If you want, you can lower the difficulty.
+  # The third minigame medals are currently not included at all, because there's no way to peek at the 3rd medal requirement for accessory-dependent games without getting the first two medals, for which skip medals don't count.
+  # Speaking of skip medals, you can skip any unlocked minigame or tech demo by typing a morse-code "SOS" "...---..." with the Y button while standing by the attendant.
+  # This can be used to fill in medals you've received as items, but PLEASE DON'T SEND MEDAL CHECKS YOU'VE SKIPPED.
+  minigames_medal_1: true
+  minigames_medal_2: true
+  minigames_medal_3: false ### NOT IMPLEMENTED
+  ## Accessory-dependent minigames
+  # Certain minigames in Welcome Tour require accessories that don't come with the console.
+  # Namely, a 4K display, a (compatible) USB camera, and GL/GR buttons, which are found on the Joy-Con 2 Charging Grip and Switch 2 Pro Controller
+  # These are **disabled by default** to match what a stock Switch 2 comes with as of December 2025.
+  accessory_4k_display: false
+  accessory_camera: false
+  accessory_gl_gr: false
+  # deathlink...? i guess you can send one every X failed attempts at a minigame
+  # Iris recommends every... 8 attempts? For minigames at least.
+  # If you fail a quiz, send a deathlink instantly.
+  # If you receive a deathlink... close and restart the game?
+  death_link: false
+  # These options technically do nothing, they're just here for reference
+  minigame_attempts: 8
+  quiz_attempts: 1

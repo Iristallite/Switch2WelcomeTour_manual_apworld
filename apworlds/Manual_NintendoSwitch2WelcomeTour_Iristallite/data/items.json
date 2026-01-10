@@ -1,0 +1,444 @@
+[
+  {
+    "count": "12",
+    "name": "Lost Item",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "51",
+    "name": "Medal (Minigame-1)",
+    "category": [
+      "Medals",
+      "minigames_medal_1"
+    ],
+    "progression": true
+  },
+  {
+    "count": "51",
+    "name": "Medal (Minigame-2)",
+    "category": [
+      "Medals",
+      "minigames_medal_2"
+    ],
+    "progression": true
+  },
+  {
+    "count": "51",
+    "name": "Medal (Minigame-3)",
+    "category": [
+      "Medals",
+      "minigames_medal_3"
+    ],
+    "progression": true
+  },
+  {
+    "count": "14",
+    "name": "Medal (Tech Demo)",
+    "category": [
+      "Medals",
+      "techdemos_medal"
+    ],
+    "progression": true
+  },
+  {
+    "count": "157",
+    "name": "Stamp",
+    "category": [
+      "Stamps"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - HD Rumble 2 Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Mouse Sensor Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Magnetic Connector Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Game Card Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Microphone Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Stand Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Console Screen Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Console Speaker Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - HD Rumble 2 Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Mouse Sensor Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Magnetic Connector Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Computer Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - HD Rumble 2 Insights 3",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Strap Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Strap Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 AC Adapter Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - TV Output Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - TV Output Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Dock Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Dock Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Camera Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Camera Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Control Stick Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Magnetic Connector Insights 3",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Grip Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Charging Grip Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Pro Controller Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Pro Controller Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Wheel Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Joy-Con 2 Wheel Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Microphone Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Heat Dissipation Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Heat Dissipation Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Battery Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Console Screen Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Console Screen Insights 3",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Console Screen Insights 4",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Main Computer Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Main Computer Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Memory Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Storage Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Operating System Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Console Insights 1",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Nintendo Switch 2 Console Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Wireless Communication Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - microSD Express Memory Card Insights",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Quiz Book - Console Speaker Insights 2",
+    "category": [
+      "Quiz Books"
+    ],
+    "progression": true
+  }
+]

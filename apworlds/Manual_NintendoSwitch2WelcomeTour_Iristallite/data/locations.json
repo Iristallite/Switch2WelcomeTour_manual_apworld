@@ -1,0 +1,5073 @@
+[
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Lost Glasses (Black)",
+    "category": [
+      "Area A: Joy-Con 2 (L)",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Tech Demo 01: Maracas Physics",
+    "category": [
+      "Area A: Joy-Con 2 (L)",
+      "Tech Demos"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 1: Survival Mode - Survive for 20 seconds",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 1: Survival Mode - Survive for 30 seconds",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 2: Catch the Stars - Catch 20 stars",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:2|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 2: Catch the Stars - Catch 40 stars",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:2|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 3: Twin UFOs - Catch 10 stars",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:31|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 3: Twin UFOs - Catch 20 stars",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:31|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 4: Twin UFOs (Nightmare Mode) - Catch 10 stars",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:99|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Dodge the Spiked Balls 4: Twin UFOs (Nightmare Mode) - Catch 20 stars",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 01: Dodge the Spiked Balls",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:99|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Find the Strongest Rumble 1: Along a Line - Guess within 50 units",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 02: Find the Strongest Rumble",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Find the Strongest Rumble 1: Along a Line - Guess within 20 units",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 02: Find the Strongest Rumble",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Find the Strongest Rumble 2: Along Two Axes - Guess within 50 units",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 02: Find the Strongest Rumble",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:7|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Find the Strongest Rumble 2: Along Two Axes - Guess within 20 units",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 02: Find the Strongest Rumble",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:7|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Find the Strongest Rumble 3: False Positives - Guess within 30 units",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 02: Find the Strongest Rumble",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:30|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Find the Strongest Rumble 3: False Positives - Guess within 10 units",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Minigames",
+      "Minigame 02: Find the Strongest Rumble",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:30|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Quiz 01: HD Rumble 2 Insights 1 - Perfect Score",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Quizzes",
+      "Quiz 01: HD Rumble 2 Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "HD Rumble 2 Insights 1: HD Rumble 2",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 01: HD Rumble 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "HD Rumble 2 Insights 1: How Rumble Works",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 01: HD Rumble 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "HD Rumble 2 Insights 1: Powerful Rumble",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 01: HD Rumble 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "HD Rumble 2 Insights 1: HD Rumble 2 Is in Your Hands",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 01: HD Rumble 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Quiz 02: Mouse Sensor Insights 1 - Perfect Score",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Quizzes",
+      "Quiz 02: Mouse Sensor Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Mouse Sensor Insights 1: Joy-Con 2 Mouse Controls",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 02: Mouse Sensor Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Mouse Sensor Insights 1: Using the Mouse on Your Lap",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 02: Mouse Sensor Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Mouse Sensor Insights 1: Mouse Sensors",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 02: Mouse Sensor Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Mouse Sensor Insights 1: Not Just a Mouse",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 02: Mouse Sensor Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Quiz 03: Magnetic Connector Insights 1 - Perfect Score",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Quizzes",
+      "Quiz 03: Magnetic Connector Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Magnetic Connector Insights 1: Attaching and Detaching Joy-Con 2 Is Easy",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 03: Magnetic Connector Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Magnetic Connector Insights 1: The Joy-Con 2 Attach Magnetically",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 03: Magnetic Connector Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Magnetic Connector Insights 1: Joy-Con 2 Can Be Attached Backwards",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 03: Magnetic Connector Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Magnetic Connector Insights 1: Where Are the Magnets?",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Insights",
+      "Quiz 03: Magnetic Connector Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 1|"
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): L Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): ZL Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): - Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Left Stick",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Up Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Down Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Left Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Right Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Capture Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Mouse Foot (Upper)",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Release Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): SL Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Mouse Sensor",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Player LED",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Magnetic Connector",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): SYNC Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): SR Button",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area A: Joy-Con 2 (L)",
+    "name": "Joy-Con 2 (L): Mouse Foot (Lower)",
+    "category": [
+      "Area A: Joy-Con 2 (L) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Lost Book (Green)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Tech Demo 02: HDR Fireworks",
+    "category": [
+      "Area B: Nintendo Switch 2 Console",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:2|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Tech Demo 03: Super Mario Bros. 4K (1-1)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console",
+      "Tech Demos",
+      "accessory_4k_display"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Tech Demo 04: Noise Reduction",
+    "category": [
+      "Area B: Nintendo Switch 2 Console",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:9|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Guess the Frame Rate 1: 120 fps - Guess 3/6 framerates correctly",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 03: Guess the Frame Rate",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Guess the Frame Rate 1: 120 fps - Guess 5/6 framerates correctly",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 03: Guess the Frame Rate",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Guess the Frame Rate 2: Similar Frame Rates - Guess 3/6 framerates correctly",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 03: Guess the Frame Rate",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:29|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Guess the Frame Rate 2: Similar Frame Rates - Guess 5/6 framerates correctly",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 03: Guess the Frame Rate",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:29|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Touch Ten 1: Four Colors - Touch 6/10 points simultaneously",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 04: Touch Ten",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:7|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Touch Ten 1: Four Colors - Touch 9/10 points simultaneously",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 04: Touch Ten",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:7|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Touch Ten 2: Shuffle - Touch 6/10 points simultaneously",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 04: Touch Ten",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:16|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Touch Ten 2: Shuffle - Touch 9/10 points simultaneously",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 04: Touch Ten",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:16|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Touch Ten 3: Seven Colors - Touch 6/10 points simultaneously",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 04: Touch Ten",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:48|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Touch Ten 3: Seven Colors - Touch 9/10 points simultaneously",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Minigames",
+      "Minigame 04: Touch Ten",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:48|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Quiz 04: Game Card Insights - Perfect Score",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Quizzes",
+      "Quiz 04: Game Card Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Game Card Insights|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Game Card Insights: Reading Data in a New Way",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 04: Game Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Game Card Insights|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Game Card Insights: More Than Different Colors",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 04: Game Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Game Card Insights|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Game Card Insights: Game Card Slot",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 04: Game Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Game Card Insights|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Quiz 05: Microphone Insights - Perfect Score",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Quizzes",
+      "Quiz 05: Microphone Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Microphone Insights: The Microphone and Chip",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 05: Microphone Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Microphone Insights: Noise Reduction for Games",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 05: Microphone Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Microphone Insights: Noisy Console Sounds",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 05: Microphone Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Microphone Insights: Erasing Game Sounds",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 05: Microphone Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Microphone Insights: Balancing Voice Levels",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 05: Microphone Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Quiz 06: Stand Insights - Perfect Score",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Quizzes",
+      "Quiz 06: Stand Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Stand Insights|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Stand Insights: Stand",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 06: Stand Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Stand Insights|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Quiz 07: Console Screen Insights - Perfect Score",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Quizzes",
+      "Quiz 07: Console Screen Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Screen Insights 1: Crisp and Detailed Screen",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 07: Console Screen Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Screen Insights 1: Bright Light",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 07: Console Screen Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Screen Insights 1: Smooth Movement",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 07: Console Screen Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Screen Insights 1: Less Choppy",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 07: Console Screen Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Screen Insights 1: Touch Screen",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 07: Console Screen Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Quiz 08: Console Speaker Insights 1 - Perfect Score",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Quizzes",
+      "Quiz 08: Console Speaker Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Speaker Insights 1: Tightly Sealed Box",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 08: Console Speaker Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Speaker Insights 1: The Box Is Cushioned",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 08: Console Speaker Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Console Speaker Insights 1: Playing Data-Accurate Sounds",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Insights",
+      "Quiz 08: Console Speaker Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 1|"
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: POWER Button",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Volume Buttons",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Brightness Sensor",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Air Vent",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: USB Type-C Connector (Upper)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Audio Jack",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Game Card Slot",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Microphone",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Magnetic Connector (Left)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Touch Screen",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Magnetic Connector (Right)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Speaker (L)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Air Intake (Lower Left)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: USB Type-C Connector (Lower)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Air Intake (Lower Right)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area B: Nintendo Switch 2 Console",
+    "name": "Nintendo Switch 2 Console: Speaker (R)",
+    "category": [
+      "Area B: Nintendo Switch 2 Console - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Lost Glasses (Blue 1)",
+    "category": [
+      "Area C: Joy-Con 2 (R)",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Tech Demo 05: HD Rumble 2 Sound",
+    "category": [
+      "Area C: Joy-Con 2 (R)",
+      "Tech Demos"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Guess the Angle 1: Including Hints - Guess within a total of 30 degrees off",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 05: Guess the Angle",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:1|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Guess the Angle 1: Including Hints - Guess within a total of 20 degrees off",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 05: Guess the Angle",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:1|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Guess the Angle 2: No Hints - Guess within a total of 20 degrees off",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 05: Guess the Angle",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:25|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Guess the Angle 2: No Hints - Guess within a total of 10 degrees off",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 05: Guess the Angle",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:25|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 1: Long Walls - Complete the maze within 5 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:4|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 1: Long Walls - Complete the maze within 2.5 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:4|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 2: Up & Down - Complete the maze within 8 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:7|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 2: Up & Down - Complete the maze within 3.5 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:7|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 3: A Pair of Glasses - Complete the maze within 10 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:42|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 3: A Pair of Glasses - Complete the maze within 5 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:42|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 4: A Tight Squeeze - Complete the maze within 2.5 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:75|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Speed Maze 4: A Tight Squeeze - Complete the maze within 1.2 seconds",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Minigames",
+      "Minigame 06: Speed Maze",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:75|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Quiz 09: HD Rumble 2 Insights 2 - Perfect Score",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Quizzes",
+      "Quiz 09: HD Rumble 2 Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "HD Rumble 2 Insights 2: Various Vibrations",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 09: HD Rumble 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "HD Rumble 2 Insights 2: Responsive Rumble",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 09: HD Rumble 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "HD Rumble 2 Insights 2: Rumble with Sound",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 09: HD Rumble 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "HD Rumble 2 Insights 2: Nintendo and Rumble (1)",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 09: HD Rumble 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Quiz 10: Mouse Sensor Insights 2 - Perfect Score",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Quizzes",
+      "Quiz 10: Mouse Sensor Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Mouse Sensor Insights 2: Invisible Light",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 10: Mouse Sensor Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Mouse Sensor Insights 2: Custom Lens",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 10: Mouse Sensor Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Mouse Sensor Insights 2: Small Sheets",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 10: Mouse Sensor Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Mouse Sensor Insights 2: Suddenly, It's a Mouse",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 10: Mouse Sensor Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Mouse Sensor Insights 2: Nintendo and Mice",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 10: Mouse Sensor Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Mouse Sensor Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Quiz 11: Magnetic Connector Insights 2 - Perfect Score",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Quizzes",
+      "Quiz 11: Magnetic Connector Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Magnetic Connector Insights 2: Why Attach with the Buttons?",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 11: Magnetic Connector Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Magnetic Connector Insights 2: The Magnets Are Thinly Covered",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 11: Magnetic Connector Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Magnetic Connector Insights 2: Why the Gap?",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 11: Magnetic Connector Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Magnetic Connector Insights 2: The Magnetic Connectors Stay Strong",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Insights",
+      "Quiz 11: Magnetic Connector Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 2|"
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): R Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): ZR Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): + Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): A Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): B Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): X Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Y Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Right Stick",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): NFC Touchpoint",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): HOME Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): C Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Mouse Foot (Upper)",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Release Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): SR Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Mouse Sensor",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Player LED",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Magnetic Connector",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): SYNC Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): SL Button",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area C: Joy-Con 2 (R)",
+    "name": "Joy-Con 2 (R): Mouse Foot (Lower)",
+    "category": [
+      "Area C: Joy-Con 2 (R) - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Lost Hat (Blue 1)",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Tech Demo 06: Super Resolution",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:4|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Tech Demo 07: Dual HD Rumble 2",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior",
+      "Tech Demos"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 1: Beginner Course - Sink the ball within 10 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:1|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 1: Beginner Course - Sink the ball within 20 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:1|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 2: Winding Course - Sink the ball within 10 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:17|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 2: Winding Course - Sink the ball within 5 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:17|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 3: Angular Course - Sink the ball within 25 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:49|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 3: Angular Course - Sink the ball within 15 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:49|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 4: Pitfall Course - Sink the ball within 12 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:81|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Speed Golf 4: Pitfall Course - Sink the ball within 7 seconds",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Minigames",
+      "Minigame 07: Speed Golf",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:81|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Quiz 12: Joy-Con 2 Computer Insights - Perfect Score",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Quizzes",
+      "Quiz 12: Joy-Con 2 Computer Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Computer Insights|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 Computer Insights: Joy-Con 2 Is a Computer",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 12: Joy-Con 2 Computer Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Computer Insights|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 Computer Insights: Accelerometer",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 12: Joy-Con 2 Computer Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Computer Insights|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 Computer Insights: Gyroscope",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 12: Joy-Con 2 Computer Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Computer Insights|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Quiz 13: Joy-Con 2 Insights 1 - Perfect Score",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Quizzes",
+      "Quiz 13: Joy-Con 2 Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 1|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 Insights 1: Bigger, but Still Easy to Use",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 13: Joy-Con 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 1|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 Insights 1: Longer L and R Buttons",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 13: Joy-Con 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 1|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 Insights 1: New C Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 13: Joy-Con 2 Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 1|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Quiz 14: HD Rumble 2 Insights 3 - Perfect Score",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Quizzes",
+      "Quiz 14: HD Rumble 2 Insights 3",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 3|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "HD Rumble 2 Insights 3: Multiple North and South Poles",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 14: HD Rumble 2 Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 3|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "HD Rumble 2 Insights 3: Quiet Rumble",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 14: HD Rumble 2 Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 3|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "HD Rumble 2 Insights 3: Nintendo and Rumble (2)",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Insights",
+      "Quiz 14: HD Rumble 2 Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - HD Rumble 2 Insights 3|"
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: + Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: A Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: B Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: X Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: Y Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: NFC Touchpoint",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: HOME Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: Joy-Con 2 Chip",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: C Button",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: Battery",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area D: Joy-Con 2 (R) Interior",
+    "name": "Joy-Con 2 (R) Interior: HD Rumble 2",
+    "category": [
+      "Area D: Joy-Con 2 (R) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Lost Hat (Red)",
+    "category": [
+      "Area E: Joy-Con 2 Strap",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Tech Demo 08: HD Rumble 2 Saw",
+    "category": [
+      "Area E: Joy-Con 2 Strap",
+      "Tech Demos"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 1: Single Target - Break the targets within 0.8 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:1|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 1: Single Target - Break the targets within 0.4 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:1|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 2: Triple Targets - Break the targets within 2 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:10|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 2: Triple Targets - Break the targets within 1.4 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:10|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 3: Rotating Targets - Break the targets within 2 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:37|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 3: Rotating Targets - Break the targets within 1.5 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:37|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 4: Random Targets - Break the targets within 3.5 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:77|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Click Quick 4: Random Targets - Break the targets within 2.5 seconds",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Minigames",
+      "Minigame 08: Click Quick",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:77|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Quiz 15: Joy-Con 2 Strap Insights 1 - Perfect Score",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Quizzes",
+      "Quiz 15: Joy-Con 2 Strap Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap Insights 1: Attaching or Detaching the Strap Is Easy",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Insights",
+      "Quiz 15: Joy-Con 2 Strap Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap Insights 1: The Strap Helps With Mouse Controls",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Insights",
+      "Quiz 15: Joy-Con 2 Strap Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap Insights 1: Small Locking Mechanism",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Insights",
+      "Quiz 15: Joy-Con 2 Strap Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Quiz 16: Joy-Con 2 Strap Insights 2 - Perfect Score",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Quizzes",
+      "Quiz 16: Joy-Con 2 Strap Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1| AND |Quiz Book - Joy-Con 2 Strap Insights 2|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap Insights 2: Fiberglass",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Insights",
+      "Quiz 16: Joy-Con 2 Strap Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1| AND |Quiz Book - Joy-Con 2 Strap Insights 2|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap Insights 2: Quiet Even when Vibrating",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Insights",
+      "Quiz 16: Joy-Con 2 Strap Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1| AND |Quiz Book - Joy-Con 2 Strap Insights 2|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap Insights 2: Running Stitch, Satin Stitch, Zigzag Stitch",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Insights",
+      "Quiz 16: Joy-Con 2 Strap Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Strap Insights 1| AND |Quiz Book - Joy-Con 2 Strap Insights 2|"
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: + Symbol / - Symbol",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: Locking Mechanism",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: Mouse Foot (Upper)",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: Player LED",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: Rubber Caps",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: Mouse Foot (Lower)",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area E: Joy-Con 2 Strap",
+    "name": "Joy-Con 2 Strap: Cover",
+    "category": [
+      "Area E: Joy-Con 2 Strap - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Lost Book (Blue)",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Tech Demo 09: Dual-Mouse Water Scoop",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Tech Demo 10: Echo Generator",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:12|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "4K Pixel Hunt 1: Five Pixels - Medal #1",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Minigames",
+      "Minigame 09: 4K Pixel Hunt",
+      "Minigames",
+      "minigames_medal_1",
+      "accessory_4k_display"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "4K Pixel Hunt 1: Five Pixels - Medal #2",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Minigames",
+      "Minigame 09: 4K Pixel Hunt",
+      "Minigames",
+      "minigames_medal_2",
+      "accessory_4k_display"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "4K Pixel Hunt 2: Five Drifting Pixels - Medal #1",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Minigames",
+      "Minigame 09: 4K Pixel Hunt",
+      "Minigames",
+      "minigames_medal_1",
+      "accessory_4k_display"
+    ],
+    "requires": "|@Medals:35|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "4K Pixel Hunt 2: Five Drifting Pixels - Medal #2",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Minigames",
+      "Minigame 09: 4K Pixel Hunt",
+      "Minigames",
+      "minigames_medal_2",
+      "accessory_4k_display"
+    ],
+    "requires": "|@Medals:35|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Quiz 17: Nintendo Switch 2 AC Adapter Insights - Perfect Score",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Quizzes",
+      "Quiz 17: Nintendo Switch 2 AC Adapter Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 AC Adapter Insights|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 AC Adapter Insights: Removable Cable",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 17: Nintendo Switch 2 AC Adapter Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 AC Adapter Insights|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 AC Adapter Insights: Small, Yet Powerful",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 17: Nintendo Switch 2 AC Adapter Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 AC Adapter Insights|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 AC Adapter Insights: Thin and Flexible",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 17: Nintendo Switch 2 AC Adapter Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 AC Adapter Insights|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Quiz 18: TV Output Insights 1 - Perfect Score",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Quizzes",
+      "Quiz 18: TV Output Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 1: Ultra High Speed",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 18: TV Output Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 1: 4K",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 18: TV Output Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 1: HDR",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 18: TV Output Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 1: Smooth Movement",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 18: TV Output Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Quiz 19: TV Output Insights 2 - Perfect Score",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Quizzes",
+      "Quiz 19: TV Output Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1| AND |Quiz Book - TV Output Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 2: Easy to Use Without Any Setup",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 19: TV Output Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1| AND |Quiz Book - TV Output Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 2: Interacting with the TV",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 19: TV Output Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1| AND |Quiz Book - TV Output Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 2: Changing the Video Signal",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 19: TV Output Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1| AND |Quiz Book - TV Output Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "TV Output Insights 2: How Pictures Get to the Screen",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 19: TV Output Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - TV Output Insights 1| AND |Quiz Book - TV Output Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Quiz 20: Nintendo Switch 2 Dock Insights 1 - Perfect Score",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Quizzes",
+      "Quiz 20: Nintendo Switch 2 Dock Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 1: The Dock Is More Than a Stand",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 20: Nintendo Switch 2 Dock Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 1: A Revamped Dock",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 20: Nintendo Switch 2 Dock Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 1: The Dock Fan",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 20: Nintendo Switch 2 Dock Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 1: A Rounded Back",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 20: Nintendo Switch 2 Dock Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Quiz 21: Nintendo Switch 2 Dock Insights 2 - Perfect Score",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Quizzes",
+      "Quiz 21: Nintendo Switch 2 Dock Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1| AND |Quiz Book - Nintendo Switch 2 Dock Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 2: A Ridge and Some Bumps",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 21: Nintendo Switch 2 Dock Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1| AND |Quiz Book - Nintendo Switch 2 Dock Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 2: Slightly Raised Spots",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 21: Nintendo Switch 2 Dock Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1| AND |Quiz Book - Nintendo Switch 2 Dock Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock Insights 2: One of the Four Feet",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Insights",
+      "Quiz 21: Nintendo Switch 2 Dock Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Dock Insights 1| AND |Quiz Book - Nintendo Switch 2 Dock Insights 2|"
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: Back Cover Locking Mechanism",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: AC Adapter Port",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: Air Vent",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: HDMI Port",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: Air Intake (Lower Left)",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: LAN Port",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area F: Nintendo Switch 2 Dock",
+    "name": "Nintendo Switch 2 Dock: Air Intake (Lower Right)",
+    "category": [
+      "Area F: Nintendo Switch 2 Dock - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Lost Glasses (Blue 2)",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Facial Impressions: Five-Faces Challenge - Medal #1",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Minigames",
+      "Minigame 10: Facial Impressions",
+      "Minigames",
+      "minigames_medal_1",
+      "accessory_camera"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Facial Impressions: Five-Faces Challenge - Medal #2",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Minigames",
+      "Minigame 10: Facial Impressions",
+      "Minigames",
+      "minigames_medal_2",
+      "accessory_camera"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Feel the Shape 1: Various Shapes - Identify all 5 shapes within 2 minutes",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Minigames",
+      "Minigame 11: Feel the Shape",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:13|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Feel the Shape 1: Various Shapes - Identify all 5 shapes within 1 minute",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Minigames",
+      "Minigame 11: Feel the Shape",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:13|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Feel the Shape 2: The Alphabet - Identify all 5 letters within 2 minutes",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Minigames",
+      "Minigame 11: Feel the Shape",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:38|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Feel the Shape 2: The Alphabet - Identify all 5 letters within 1 minute",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Minigames",
+      "Minigame 11: Feel the Shape",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:38|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Quiz 22: Nintendo Switch 2 Camera Insights 1 - Perfect Score",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Quizzes",
+      "Quiz 22: Nintendo Switch 2 Camera Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 1|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 1: An Easy and Versatile Camera",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 22: Nintendo Switch 2 Camera Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 1|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 1: USB Cameras",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 22: Nintendo Switch 2 Camera Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 1|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 1: The Camera's Stand",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 22: Nintendo Switch 2 Camera Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 1|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 1: Illuminating Your Face",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 22: Nintendo Switch 2 Camera Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 1|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 1: A Clear Image in the Dark",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 22: Nintendo Switch 2 Camera Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 1|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Quiz 23: Nintendo Switch 2 Camera Insights 2 - Perfect Score",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Quizzes",
+      "Quiz 23: Nintendo Switch 2 Camera Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 2|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 2: A Movable Camera Head",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 23: Nintendo Switch 2 Camera Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 2|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 2: Capturing a Wide Angle",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 23: Nintendo Switch 2 Camera Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 2|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 2: Preventing Distortion",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 23: Nintendo Switch 2 Camera Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 2|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 2: The Privacy Shutter",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 23: Nintendo Switch 2 Camera Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 2|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera Insights 2: Nintendo and Cameras",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Insights",
+      "Quiz 23: Nintendo Switch 2 Camera Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Camera Insights 2|"
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera: Operation LED",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera: Lens",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera: Camera Ring Slider",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera: Cable Clip",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera: Stand (Pole)",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area G: Nintendo Switch 2 Camera",
+    "name": "Nintendo Switch 2 Camera: Stand (Base)",
+    "category": [
+      "Area G: Nintendo Switch 2 Camera - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Lost Hat (Blue 2)",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Tech Demo 11: VRR Slider",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:13|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 1: Triangle - Color the triangle within 15 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_1"
+    ],
+    "requires": "|@Medals:3|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 1: Triangle - Color the triangle within 9 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_2"
+    ],
+    "requires": "|@Medals:3|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 2: Star - Color the star within 20 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_1"
+    ],
+    "requires": "|@Medals:14|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 2: Star - Color the star within 15 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_2"
+    ],
+    "requires": "|@Medals:14|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 3: Flowers - Color the flowers within 60 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_1"
+    ],
+    "requires": "|@Medals:52|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 3: Flowers - Color the flowers within 45 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_2"
+    ],
+    "requires": "|@Medals:52|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 4: Snake - Color the snake within 24 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_1"
+    ],
+    "requires": "|@Medals:84|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Color the Shapes 4: Snake - Color the snake within 12 seconds",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 12: Color the Shapes",
+      "Minigames",
+      "mingames_medal_2"
+    ],
+    "requires": "|@Medals:84|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Match the Rumble: Six Pairs - Match all the rumbles within 30 moves",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 13: Match the Rumble",
+      "Minigames",
+      "mingames_medal_1"
+    ],
+    "requires": "|@Medals:24|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Match the Rumble: Six Pairs - Match all the rumbles within 24 moves",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Minigames",
+      "Minigame 13: Match the Rumble",
+      "Minigames",
+      "mingames_medal_2"
+    ],
+    "requires": "|@Medals:24|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Quiz 24: Control Stick Insights - Perfect Score",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Quizzes",
+      "Quiz 24: Control Stick Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Control Stick Insights|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Control Stick Insights: Easier-to-Use Sticks",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 24: Control Stick Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Control Stick Insights|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Control Stick Insights: Smooth Control Stick Movements",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 24: Control Stick Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Control Stick Insights|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Control Stick Insights: How the Control Sticks Work",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 24: Control Stick Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Control Stick Insights|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Control Stick Insights: Nintendo and Control Sticks",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 24: Control Stick Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Control Stick Insights|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Quiz 25: Joy-Con 2 Insights 2 - Perfect Score",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Quizzes",
+      "Quiz 25: Joy-Con 2 Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 2|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 Insights 2: Easy-to-Press Buttons",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 25: Joy-Con 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 2|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 Insights 2: How the Buttons Work",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 25: Joy-Con 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 2|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 Insights 2: Hidden Screws",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 25: Joy-Con 2 Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Insights 2|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Quiz 26: Magnetic Connector Insights 3 - Perfect Score",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Quizzes",
+      "Quiz 26: Magnetic Connector Insights 3",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 3|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Magnetic Connector Insights 3: Moving Connectors",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 26: Magnetic Connector Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 3|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Magnetic Connector Insights 3: A Strong Magnetic Circuit",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 26: Magnetic Connector Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 3|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Magnetic Connector Insights 3: Detaching Controllers Requires Little Force",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Insights",
+      "Quiz 26: Magnetic Connector Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Magnetic Connector Insights 3|"
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: - Button",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Up Button",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Down Button",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Left Button",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Right Button",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Joy-Con 2 Chip (Back)",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Capture Button",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: Battery",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area H: Joy-Con 2 (L) Interior",
+    "name": "Joy-Con 2 (L) Interior: HD Rumble 2",
+    "category": [
+      "Area H: Joy-Con 2 (L) Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Lost Maracas",
+    "category": [
+      "Area I: Joy-Con 2 Grip",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Balloon Hunt 1: Single Balloons - Pop all balloons within 30 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 14: Balloon Hunt",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:4|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Balloon Hunt 1: Single Balloons - Pop all balloons within 18 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 14: Balloon Hunt",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:4|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Balloon Hunt 2: Double Balloons - Pop all balloons within 35 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 14: Balloon Hunt",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:15|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Balloon Hunt 2: Double Balloons - Pop all balloons within 25 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 14: Balloon Hunt",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:15|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Balloon Hunt 3: Triple Balloons - Pop all balloons within 30 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 14: Balloon Hunt",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:51|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Balloon Hunt 3: Triple Balloons - Pop all balloons within 20 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 14: Balloon Hunt",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:51|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "LCD Pixel Hunt 1: Three Pixels - Locate the pixels within 80 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 15: LCD Pixel Hunt",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:27|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "LCD Pixel Hunt 1: Three Pixels - Locate the pixels within 20 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 15: LCD Pixel Hunt",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:27|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "LCD Pixel Hunt 2: Three Drifting Pixels - Locate the pixels within 60 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 15: LCD Pixel Hunt",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:49|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "LCD Pixel Hunt 2: Three Drifting Pixels - Locate the pixels within 15 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 15: LCD Pixel Hunt",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:49|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Scrape Off 1: Stain Removal - Scrape off the stain within 25 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 16: Scrape Off",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:15|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Scrape Off 1: Stain Removal - Scrape off the stain within 17 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 16: Scrape Off",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:15|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Scrape Off 2: Stubborn Stain Removal - Scrape off the stain within 50 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 16: Scrape Off",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:50|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Scrape Off 2: Stubborn Stain Removal - Scrape off the stain within 35 seconds",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Minigames",
+      "Minigame 16: Scrape Off",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:50|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Quiz 27: Joy-Con 2 Grip Insights - Perfect Score",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Quizzes",
+      "Quiz 27: Joy-Con 2 Grip Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip Insights: Easily Attach to and Detach from the Grip",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Insights",
+      "Quiz 27: Joy-Con 2 Grip Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip Insights: The Enlarged Joy-Con 2 Grip",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Insights",
+      "Quiz 27: Joy-Con 2 Grip Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip Insights: Standing Grip",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Insights",
+      "Quiz 27: Joy-Con 2 Grip Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Quiz 28: Joy-Con 2 Charging Grip Insights - Perfect Score",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Quizzes",
+      "Quiz 28: Joy-Con 2 Charging Grip Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights| AND |Quiz Book - Joy-Con 2 Charging Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Charging Grip Insights: Charging Grip",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Insights",
+      "Quiz 28: Joy-Con 2 Charging Grip Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights| AND |Quiz Book - Joy-Con 2 Charging Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Charging Grip Insights: The GL/GR Buttons",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Insights",
+      "Quiz 28: Joy-Con 2 Charging Grip Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Grip Insights| AND |Quiz Book - Joy-Con 2 Charging Grip Insights|"
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Player LED (Left)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Magnetic Connector (Left)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Rubber Cap (Upper Left)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Rubber Cap (Lower Left)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Foot (Left)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Nintendo Switch 2 Logo",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Player LED (Right)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Magnetic Connector (Right)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Rubber Cap (Upper Right)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Rubber Cap (Lower Right)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area I: Joy-Con 2 Grip",
+    "name": "Joy-Con 2 Grip: Foot (Right)",
+    "category": [
+      "Area I: Joy-Con 2 Grip - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Lost Hat (Yellow)",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Tech Demo 12: HD Rumble 2 Maker",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:29|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Open the GL/GR Locks 1: Normal - Medal #1",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Minigames",
+      "Minigame 17: Open the GL/GR Locks",
+      "Minigames",
+      "minigames_medal_1",
+      "accessory_gl_gr"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Open the GL/GR Locks 1: Normal - Medal #2",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Minigames",
+      "Minigame 17: Open the GL/GR Locks",
+      "Minigames",
+      "minigames_medal_2",
+      "accessory_gl_gr"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Open the GL/GR Locks 2: Long - Medal #1",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Minigames",
+      "Minigame 17: Open the GL/GR Locks",
+      "Minigames",
+      "minigames_medal_1",
+      "accessory_gl_gr"
+    ],
+    "requires": "|@Medals:16|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Open the GL/GR Locks 2: Long - Medal #2",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Minigames",
+      "Minigame 17: Open the GL/GR Locks",
+      "Minigames",
+      "minigames_medal_2",
+      "accessory_gl_gr"
+    ],
+    "requires": "|@Medals:16|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Open the GL/GR Locks 3: Shuffle - Medal #1",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Minigames",
+      "Minigame 17: Open the GL/GR Locks",
+      "Minigames",
+      "minigames_medal_1",
+      "accessory_gl_gr"
+    ],
+    "requires": "|@Medals:55|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Open the GL/GR Locks 3: Shuffle - Medal #2",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Minigames",
+      "Minigame 17: Open the GL/GR Locks",
+      "Minigames",
+      "minigames_medal_2",
+      "accessory_gl_gr"
+    ],
+    "requires": "|@Medals:55|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1 - Perfect Score",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Quizzes",
+      "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 1: A New Design",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 1: GameChat Made Easy",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 1: The GL/GR Buttons",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 1: Pro Controller Buttons",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 1: Wired Communication",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 29: Nintendo Switch 2 Pro Controller Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Quiz 30: Nintendo Switch 2 Pro Controller Insights 2 - Perfect Score",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Quizzes",
+      "Quiz 30: Nintendo Switch 2 Pro Controller Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1| AND |Quiz Book - Nintendo Switch 2 Pro Controller Insights 2|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 2: Light and Thin",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 30: Nintendo Switch 2 Pro Controller Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1| AND |Quiz Book - Nintendo Switch 2 Pro Controller Insights 2|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 2: Smooth-Gliding Sticks",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 30: Nintendo Switch 2 Pro Controller Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1| AND |Quiz Book - Nintendo Switch 2 Pro Controller Insights 2|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 2: Seamless Grips",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 30: Nintendo Switch 2 Pro Controller Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1| AND |Quiz Book - Nintendo Switch 2 Pro Controller Insights 2|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller Insights 2: Inspired by Nintendo GameCube",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Insights",
+      "Quiz 30: Nintendo Switch 2 Pro Controller Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Pro Controller Insights 1| AND |Quiz Book - Nintendo Switch 2 Pro Controller Insights 2|"
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: L Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: ZL Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: - Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: Left Stick",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: +Control Pad",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: GL Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: SYNC Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: Player LED",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: USB Type-C Connector",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: NFC Touchpoint",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: Capture Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: HOME Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: C Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: Audio Jack",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: R Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: ZR Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: + Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: A Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: B Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: X Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: Y Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: Right Stick",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area J: Nintendo Switch 2 Pro Controller",
+    "name": "Nintendo Switch 2 Pro Controller: GR Button",
+    "category": [
+      "Area J: Nintendo Switch 2 Pro Controller - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Lost Glasses (Yellow)",
+    "category": [
+      "Area K: Joy-Con 2 Wheel",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Tech Demo 13: HD Rumble 2 Motorcycle",
+    "category": [
+      "Area K: Joy-Con 2 Wheel",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:17|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Stunt Driving 1: Basic Course - Complete the course within 50 seconds",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Minigames",
+      "Minigame 18: Stunt Driving",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:5|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Stunt Driving 1: Basic Course - Complete the course within 43 seconds",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Minigames",
+      "Minigame 18: Stunt Driving",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:5|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Stunt Driving 2: Walls & Switches - Complete the course within 50 seconds",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Minigames",
+      "Minigame 18: Stunt Driving",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:32|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Stunt Driving 2: Walls & Switches - Complete the course within 43 seconds",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Minigames",
+      "Minigame 18: Stunt Driving",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:32|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Quiz 31: Joy-Con 2 Wheel Insights 1 - Perfect Score",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Quizzes",
+      "Quiz 31: Joy-Con 2 Wheel Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 1: Easily Attach to and Detach from the Wheel",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 31: Joy-Con 2 Wheel Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 1: Securely Attached",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 31: Joy-Con 2 Wheel Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 1: The Magnets Rotate",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 31: Joy-Con 2 Wheel Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 1: A Strong Magnetic Pull",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 31: Joy-Con 2 Wheel Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Quiz 32: Joy-Con 2 Wheel Insights 2 - Perfect Score",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Quizzes",
+      "Quiz 32: Joy-Con 2 Wheel Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1| AND |Quiz Book - Joy-Con 2 Wheel Insights 2|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 2: The Wheels Are of Similar Size",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 32: Joy-Con 2 Wheel Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1| AND |Quiz Book - Joy-Con 2 Wheel Insights 2|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 2: Easy-to-Grip Wheel",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 32: Joy-Con 2 Wheel Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1| AND |Quiz Book - Joy-Con 2 Wheel Insights 2|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 2: Hidden Screws",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 32: Joy-Con 2 Wheel Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1| AND |Quiz Book - Joy-Con 2 Wheel Insights 2|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel Insights 2: Nintendo and Wheels",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Insights",
+      "Quiz 32: Joy-Con 2 Wheel Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Joy-Con 2 Wheel Insights 1| AND |Quiz Book - Joy-Con 2 Wheel Insights 2|"
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: SL Button",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: SR Button",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: Player LED",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: Joy-Con 2 Slot (Left)",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: Joy-Con 2 Slot (Right)",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: Rubber Cap (Left)",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: Rubber Cap (Right)",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area K: Joy-Con 2 Wheel",
+    "name": "Joy-Con 2 Wheel: Grip",
+    "category": [
+      "Area K: Joy-Con 2 Wheel - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Lost Hat (Orange)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior",
+      "Lost Items"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Tech Demo 14: 3D Sound",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior",
+      "Tech Demos"
+    ],
+    "requires": "|@Medals:6|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Breaststroke: Floaty Frustration - Swim to the goal within 15 seconds",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Minigames",
+      "Minigame 19: Breaststroke",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:34|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Breaststroke: Floaty Frustration - Swim to the goal within 10 seconds",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Minigames",
+      "Minigame 19: Breaststroke",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:34|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Slot In the Shapes 1: Four Shapes - Fit all shapes within 20 seconds",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Minigames",
+      "Minigame 20: Slot In the Shapes",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:19|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Slot In the Shapes 1: Four Shapes - Fit all shapes within 15 seconds",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Minigames",
+      "Minigame 20: Slot In the Shapes",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:19|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Slot In the Shapes 2: Floating Slots - Fit all shapes within 45 seconds",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Minigames",
+      "Minigame 20: Slot In the Shapes",
+      "Minigames",
+      "minigames_medal_1"
+    ],
+    "requires": "|@Medals:35|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Slot In the Shapes 2: Floating Slots - Fit all shapes within 30 seconds",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Minigames",
+      "Minigame 20: Slot In the Shapes",
+      "Minigames",
+      "minigames_medal_2"
+    ],
+    "requires": "|@Medals:35|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 33: Microphone Insights 2 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 33: Microphone Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Microphone Insights 2: All Kinds of Microphones",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 33: Microphone Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Microphone Insights 2: One Microphone is Enough",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 33: Microphone Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Microphone Insights 2: Why Is the Mic on the Console?",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 33: Microphone Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Microphone Insights 2: Nintendo and Chat Features",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 33: Microphone Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Microphone Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 34: Heat Dissipation Insights 1 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 34: Heat Dissipation Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 1: Electronic Devices Get Hot",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 34: Heat Dissipation Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 1: A Quiet Fan",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 34: Heat Dissipation Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 1: Air Flows to the Front and Back",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 34: Heat Dissipation Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 1: Easy Airflow",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 34: Heat Dissipation Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 35: Heat Dissipation Insights 2 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 35: Heat Dissipation Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1| AND |Quiz Book - Heat Dissipation Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 2: Heat Sensitive",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 35: Heat Dissipation Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1| AND |Quiz Book - Heat Dissipation Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 2: Heat Is Spread Evenly",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 35: Heat Dissipation Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1| AND |Quiz Book - Heat Dissipation Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Heat Dissipation Insights 2: Transferring Heat",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 35: Heat Dissipation Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Heat Dissipation Insights 1| AND |Quiz Book - Heat Dissipation Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 36: Battery Insights - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 36: Battery Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Battery Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Battery Insights: 1.2x Battery Capacity",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 36: Battery Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Battery Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Battery Insights: Battery Longevity",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 36: Battery Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Battery Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Battery Insights: Nintendo and Batteries",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 36: Battery Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Battery Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 37: Console Screen Insights 2 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 37: Console Screen Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 2: Vivid Screen",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 37: Console Screen Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 2: Liquid-Crystal Display",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 37: Console Screen Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 2: Refresh Rate and LCD",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 37: Console Screen Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 38: Console Screen Insights 3 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 38: Console Screen Insights 3",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 3: A Bigger Screen",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 38: Console Screen Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 3: Sometimes Bigger Is Better",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 38: Console Screen Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 3: A Little Light Goes a Long Way",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 38: Console Screen Insights 3",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 39: Console Screen Insights 4 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 39: Console Screen Insights 4",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3| AND |Quiz Book - Console Screen Insights 4|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 4: A Slightly Lower Screen",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 39: Console Screen Insights 4",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3| AND |Quiz Book - Console Screen Insights 4|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 4: A Thinner Screen",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 39: Console Screen Insights 4",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3| AND |Quiz Book - Console Screen Insights 4|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Screen Insights 4: A Long, Thin IC",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 39: Console Screen Insights 4",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Screen Insights 2| AND |Quiz Book - Console Screen Insights 3| AND |Quiz Book - Console Screen Insights 4|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 40: Main Computer Insights 1 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 40: Main Computer Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Main Computer Insights 1: The Main Computer",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 40: Main Computer Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Main Computer Insights 1: The CPU",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 40: Main Computer Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Main Computer Insights 1: The GPU",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 40: Main Computer Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 41: Main Computer Insights 2 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 41: Main Computer Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1| AND |Quiz Book - Main Computer Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Main Computer Insights 2: A Sharper, More Detailed Picture",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 41: Main Computer Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1| AND |Quiz Book - Main Computer Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Main Computer Insights 2: Machine-Learning Calculations",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 41: Main Computer Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1| AND |Quiz Book - Main Computer Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Main Computer Insights 2: Ray Tracing",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 41: Main Computer Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Main Computer Insights 1| AND |Quiz Book - Main Computer Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 42: Memory Insights - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 42: Memory Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Memory Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Memory Insights: Main Memory vs. System Memory",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 42: Memory Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Memory Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Memory Insights: Bigger Main Memory",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 42: Memory Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Memory Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Memory Insights: Faster Main Memory",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 42: Memory Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Memory Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Memory Insights: Memory Refresh",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 42: Memory Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Memory Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 43: Storage Insights - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 43: Storage Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Storage Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Storage Insights: 256 GB",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 43: Storage Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Storage Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Storage Insights: What's Fastest?",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 43: Storage Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Storage Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Storage Insights: Nintendo and Saving Downloaded Games",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 43: Storage Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Storage Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 44: Operating System Insights - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 44: Operating System Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Operating System Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Operating System Insights: The Operating System",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 44: Operating System Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Operating System Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Operating System Insights: A Dedicated Gaming Operating System",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 44: Operating System Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Operating System Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Operating System Insights: Rewriting Programs",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 44: Operating System Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Operating System Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Operating System Insights: Firmware",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 44: Operating System Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Operating System Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Operating System Insights: Nintendo and Operating Systems",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 44: Operating System Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Operating System Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 45: Nintendo Switch 2 Console Insights 1 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 45: Nintendo Switch 2 Console Insights 1",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 1: Many Circuit Board Parts",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 45: Nintendo Switch 2 Console Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 1: A Single Circuit Board?",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 45: Nintendo Switch 2 Console Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 1: Wiring Challenges",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 45: Nintendo Switch 2 Console Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 1: Games Use Electricity",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 45: Nintendo Switch 2 Console Insights 1",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 46: Nintendo Switch 2 Console Insights 2 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 46: Nintendo Switch 2 Console Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1| AND |Quiz Book - Nintendo Switch 2 Console Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 2: Electromagnetic Noise",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 46: Nintendo Switch 2 Console Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1| AND |Quiz Book - Nintendo Switch 2 Console Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 2: Static Electricity",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 46: Nintendo Switch 2 Console Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1| AND |Quiz Book - Nintendo Switch 2 Console Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 2: Encased with Two Types of Material",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 46: Nintendo Switch 2 Console Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1| AND |Quiz Book - Nintendo Switch 2 Console Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Insights 2: The Console's Upper USB-C Connector",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 46: Nintendo Switch 2 Console Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Nintendo Switch 2 Console Insights 1| AND |Quiz Book - Nintendo Switch 2 Console Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 47: Wireless Communication Insights - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 47: Wireless Communication Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Wireless Communication Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Wireless Communication Insights: Different Types of Wireless Communication",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 47: Wireless Communication Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Wireless Communication Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Wireless Communication Insights: Three Antennas",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 47: Wireless Communication Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Wireless Communication Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Wireless Communication Insights: Preventing Mixed-Up Signals",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 47: Wireless Communication Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Wireless Communication Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Wireless Communication Insights: The Human Body and Antennas",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 47: Wireless Communication Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Wireless Communication Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Wireless Communication Insights: Nintendo and Wireless Technology",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 47: Wireless Communication Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Wireless Communication Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 48: microSD Express Memory Card Insights - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 48: microSD Express Memory Card Insights",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - microSD Express Memory Card Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "microSD Express Memory Card Insights: microSD Express Memory Cards",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 48: microSD Express Memory Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - microSD Express Memory Card Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "microSD Express Memory Card Insights: More Pins",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 48: microSD Express Memory Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - microSD Express Memory Card Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "microSD Express Memory Card Insights: A New Way to Read and Write Data",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 48: microSD Express Memory Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - microSD Express Memory Card Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "microSD Express Memory Card Insights: microSD Express Cards Only",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 48: microSD Express Memory Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - microSD Express Memory Card Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "microSD Express Memory Card Insights: Less Likely to Get Hot",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 48: microSD Express Memory Card Insights",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - microSD Express Memory Card Insights|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Quiz 49: Console Speaker Insights 2 - Perfect Score",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Quizzes",
+      "Quiz 49: Console Speaker Insights 2",
+      "Quizzes"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Speaker Insights 2: 3D Sound",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 49: Console Speaker Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Speaker Insights 2: 3D Sound with Headphones",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 49: Console Speaker Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Console Speaker Insights 2: 3D Sound with the Console's Speakers",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Insights",
+      "Quiz 49: Console Speaker Insights 2",
+      "Insights"
+    ],
+    "requires": "|Quiz Book - Console Speaker Insights 2|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Microphone",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Game Card Slot",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Audio Jack",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Wireless Antenna (Upper)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: USB Type-C Connector (Upper)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Heat Sink",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Heat Pipe",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Fan",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Brightness Sensor",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Volume Buttons",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: POWER Button",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Wireless Antenna (Right)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Battery",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Speaker (R)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Wireless Antenna (Left)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: USB Type-C Connector (Lower)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: microSD Express Card Slot",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Speaker (L)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Main Memory (Left)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": "|Stamp:154|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: Main Memory (Lower)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": "|Stamp:154|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Console Interior: SoC (System on a Chip)",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior - Stamps",
+      "Stamps"
+    ],
+    "requires": "|Stamp:154|"
+  },
+  {
+    "region": "Area L: Nintendo Switch 2 Console Interior",
+    "name": "Nintendo Switch 2 Welcome Tour Final Quiz",
+    "category": [
+      "Area L: Nintendo Switch 2 Console Interior"
+    ],
+    "requires": "|Stamp:157|",
+    "victory": true
+  }
+]

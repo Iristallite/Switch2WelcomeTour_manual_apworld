@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Nintendo Switch 2 Welcome Tour",
+  "creator": "Iristallite",
+  "filler_item_name": "Insight",
+  "death_link": true,
+  "starting_items": []
+}

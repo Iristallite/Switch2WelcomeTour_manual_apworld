@@ -1,0 +1,67 @@
+{
+  "Area A: Joy-Con 2 (L)": {
+    "connects_to": [
+      "Area B: Nintendo Switch 2 Console",
+      "Area F: Nintendo Switch 2 Dock",
+      "Area H: Joy-Con 2 (L) Interior"
+    ],
+    "requires": [],
+    "starting": true
+  },
+  "Area B: Nintendo Switch 2 Console": {
+    "connects_to": [
+      "Area C: Joy-Con 2 (R)",
+      "Area I: Joy-Con 2 Grip",
+      "Area L: Nintendo Switch 2 Console Interior"
+    ],
+    "requires": "|Stamp:18|"
+  },
+  "Area C: Joy-Con 2 (R)": {
+    "connects_to": [
+      "Area D: Joy-Con 2 (R) Interior",
+      "Area E: Joy-Con 2 Strap"
+    ],
+    "requires": "|Stamp:34|"
+  },
+  "Area D: Joy-Con 2 (R) Interior": {
+    "connects_to": [],
+    "requires": "|Stamp:54|"
+  },
+  "Area E: Joy-Con 2 Strap": {
+    "connects_to": [],
+    "requires": "|Stamp:65|"
+  },
+  "Area F: Nintendo Switch 2 Dock": {
+    "connects_to": [
+      "Area G: Nintendo Switch 2 Camera"
+    ],
+    "requires": "|Stamp:72|"
+  },
+  "Area G: Nintendo Switch 2 Camera": {
+    "connects_to": [],
+    "requires": "|Stamp:79|"
+  },
+  "Area H: Joy-Con 2 (L) Interior": {
+    "connects_to": [],
+    "requires": "|Stamp:85|"
+  },
+  "Area I: Joy-Con 2 Grip": {
+    "connects_to": [
+      "Area J: Nintendo Switch 2 Pro Controller",
+      "Area K: Joy-Con 2 Wheel"
+    ],
+    "requires": "|Stamp:94|"
+  },
+  "Area J: Nintendo Switch 2 Pro Controller": {
+    "connects_to": [],
+    "requires": "|Stamp:105|"
+  },
+  "Area K: Joy-Con 2 Wheel": {
+    "connects_to": [],
+    "requires": "|Stamp:128|"
+  },
+  "Area L: Nintendo Switch 2 Console Interior": {
+    "connects_to": [],
+    "requires": "|Stamp:136|"
+  }
+}
