@@ -25,5 +25,10 @@
   },
   "techdemos_medal": {
     "hidden": true
+  },
+  "Minigame 16: Scrape Off": {
+    "hidden": false,
+    "yaml_option": ["minigame16_scrape_off"]
   }
+
 }

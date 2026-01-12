@@ -19,6 +19,9 @@ Manual_Nintendo Switch 2 Welcome Tour_Iristallite:
   accessory_4k_display: false
   accessory_camera: false
   accessory_gl_gr: false
+  # Scrape Off is an unnecessarily physically straining minigame.
+  # I genuinely believe it is the ABSOLUTE WORST minigame here, so here's an option to remove it entirely
+  minigame16_scrape_off: false
   # deathlink...? i guess you can send one every X failed attempts at a minigame
   # Iris recommends every... 8 attempts? For minigames at least.
   # If you fail a quiz, send a deathlink instantly.
