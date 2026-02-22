@@ -29,6 +29,17 @@
   "Minigame 16: Scrape Off": {
     "hidden": false,
     "yaml_option": ["minigame16_scrape_off"]
+  },
+  "Quizzes": {
+    "hidden": false,
+    "yaml_option": ["quizsanity"]
+  },
+  "Insights": {
+    "hidden": false,
+    "yaml_option": ["quizsanity"]
+  },
+  "Quiz Books": {
+    "hidden": false,
+    "yaml_option": ["quizsanity"]
   }
-
 }

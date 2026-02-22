@@ -1,3 +1,11 @@
+## [v2.0: Welcomesanity](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.0)
+Published: 2026-02-22 @ 21:25 UTC  
+Do you want just the minigames?  
+No A-Button-destroying insights that grind the pacing to a halt and make this apworld non-sync-viable?  
+WELL I HAVE THE SOLUTION: A "QUIZSANITY" TOGGLE!!!
+* Added "Quizsanity" option
+* Tweaked "removal" options to improve generation
+
 ## [v1.1: Scraped Out](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v1.1)
 Published: 2026-01-12 @ 19:25 UTC
 * Added an option to disable the (in my opinion) worst minigame, Scrape Off

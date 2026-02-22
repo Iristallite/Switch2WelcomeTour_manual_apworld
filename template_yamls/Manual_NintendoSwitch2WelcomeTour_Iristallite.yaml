@@ -1,3 +1,4 @@
+## Template for apworld version v2.0
 name: Player{number}
 description: Default Manual_Nintendo Switch 2 Welcome Tour_Iristallite template
 game: Manual_Nintendo Switch 2 Welcome Tour_Iristallite
@@ -11,10 +12,15 @@ Manual_Nintendo Switch 2 Welcome Tour_Iristallite:
   # This can be used to fill in medals you've received as items, but PLEASE DON'T SEND MEDAL CHECKS YOU'VE SKIPPED.
   minigames_medal_1: true
   minigames_medal_2: true
-  minigames_medal_3: false ### NOT IMPLEMENTED
+  minigames_medal_3: false ### NOT IMPLEMENTED - GENERATION WILL FAIL IF ENABLED
+  ## Sanity settings
+  # 179 Insights + 49 Quizzes = 228 total checks
+  # 49 Quiz Book items
+  # Consider disabling this option in sync multiworld games.
+  quizsanity: false
   ## Accessory-dependent minigames
   # Certain minigames in Welcome Tour require accessories that don't come with the console.
-  # Namely, a 4K display, a (compatible) USB camera, and GL/GR buttons, which are found on the Joy-Con 2 Charging Grip and Switch 2 Pro Controller
+  # Namely, a 4K display, a (compatible) USB camera, and GL/GR buttons, which are found on the Joy-Con 2 Charging Grip and Switch 2 Pro Controller.
   # These are **disabled by default** to match what a stock Switch 2 comes with as of December 2025.
   accessory_4k_display: false
   accessory_camera: false

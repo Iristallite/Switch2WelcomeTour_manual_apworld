@@ -6,7 +6,7 @@
     "filler": true
   },
   {
-    "count": "51",
+    "count": "37",
     "name": "Medal (Minigame-1)",
     "category": [
       "Medals",
@@ -15,7 +15,47 @@
     "progression": true
   },
   {
-    "count": "51",
+    "count": "2",
+    "name": "Medal (4K Minigame-1)",
+    "category": [
+      "Medals",
+      "minigames_medal_1",
+      "accessory_4k_display"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Medal (GL/GR Minigame-1)",
+    "category": [
+      "Medals",
+      "minigames_medal_1",
+      "accessory_gl_gr"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Medal (Camera Minigame-1)",
+    "category": [
+      "Medals",
+      "minigames_medal_1",
+      "accessory_camera"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Medal (Scrape Off Minigame-1)",
+    "category": [
+      "Medals",
+      "minigames_medal_1",
+      "Minigame 16: Scrape Off"
+    ],
+    "progression": true
+  },
+  {
+    "count": "37",
     "name": "Medal (Minigame-2)",
     "category": [
       "Medals",
@@ -24,7 +64,47 @@
     "progression": true
   },
   {
-    "count": "51",
+    "count": "2",
+    "name": "Medal (4K Minigame-2)",
+    "category": [
+      "Medals",
+      "minigames_medal_2",
+      "accessory_4k_display"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Medal (GL/GR Minigame-2)",
+    "category": [
+      "Medals",
+      "minigames_medal_2",
+      "accessory_gl_gr"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Medal (Camera Minigame-2)",
+    "category": [
+      "Medals",
+      "minigames_medal_2",
+      "accessory_camera"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Medal (Scrape Off Minigame-2)",
+    "category": [
+      "Medals",
+      "minigames_medal_2",
+      "Minigame 16: Scrape Off"
+    ],
+    "progression": true
+  },
+  {
+    "count": "37",
     "name": "Medal (Minigame-3)",
     "category": [
       "Medals",
@@ -33,11 +113,61 @@
     "progression": true
   },
   {
-    "count": "14",
+    "count": "2",
+    "name": "Medal (4K Minigame-3)",
+    "category": [
+      "Medals",
+      "minigames_medal_3",
+      "accessory_4k_display"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Medal (GL/GR Minigame-3)",
+    "category": [
+      "Medals",
+      "minigames_medal_3",
+      "accessory_gl_gr"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Medal (Camera Minigame-3)",
+    "category": [
+      "Medals",
+      "minigames_medal_3",
+      "accessory_camera"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Medal (Scrape Off Minigame-3)",
+    "category": [
+      "Medals",
+      "minigames_medal_3",
+      "Minigame 16: Scrape Off"
+    ],
+    "progression": true
+  },
+  {
+    "count": "13",
     "name": "Medal (Tech Demo)",
     "category": [
       "Medals",
       "techdemos_medal"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Medal (4K Tech Demo)",
+    "category": [
+      "Medals",
+      "techdemos_medal",
+      "accessory_4k_display"
     ],
     "progression": true
   },
