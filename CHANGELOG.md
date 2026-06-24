@@ -1,3 +1,15 @@
+## [v2.1: The small things in life](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.1)
+Published: 2026-06-24 @ 20:39 UTC  
+This release is mostly internal stuff, but I did add a new trap!  
+Shoutouts to the I-Ninja OST for carrying me through this.
+* DEV: Rebased to latest stable ManualAP release [20260319](https://github.com/ManualForArchipelago/Manual/releases/tag/manual_stable_20260319)
+* DEV: reformatted internal json to "optical alignment" methodology to improve readability
+* The `.apworld` file is now shipped compressed, drastically reducing its file size
+* Used sort keys to sort everything better
+* Added the evil ass trap that forces you to reinstall the game
+* Added medal descriptions to the `Open the GL/GR Locks` minigame
+* Still didn't add level 3 medals
+
 ## [v2.0: Welcomesanity](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.0)
 Published: 2026-02-22 @ 21:25 UTC  
 Do you want just the minigames?  
