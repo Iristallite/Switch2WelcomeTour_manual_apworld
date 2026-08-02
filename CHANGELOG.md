@@ -1,3 +1,21 @@
+## [v3.0: Better Options, Better Pizza!]()
+Published: 2026-08-02 @ 17:35 UTC
+* Defined `options.json`
+* This means the Options Creator works now
+* Added more options
+* Like, ***WAY*** more options
+* Seriously, you can customize *everything* now
+* Some combos will surely fail generation, make sure to test your yaml
+* Added a "fun" option to add some additional gating to Areas D and H
+* Added an option to have `Skip Signal` "consumable" items. (class: useful)
+* Added level 3 minigame medals (FINALLY)
+* Probably fixed the hat in Area D being wrong (It was red, not blue)  
+* Fixed `Click Quick 1` accidentally pluralizing a singlet
+* Split regions into sub-areas (There are only 3 of these in the game)
+* Added an option for "dynamic medal requirements" (percentage-based)
+* (dev info: Welcome Tour has 167 medals in total. I wish it had two more.)
+
+
 ## [v2.1: The small things in life](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.1)
 Published: 2026-06-24 @ 20:39 UTC  
 This release is mostly internal stuff, but I did add a new trap!  
