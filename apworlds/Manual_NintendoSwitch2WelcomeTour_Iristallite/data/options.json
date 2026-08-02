@@ -1,82 +1,571 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
-    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
-    "core": {
-        "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
-            "hidden": false
-        },
-        "death_link": {
-            "default": false
-        },
-        "filler_traps": {
-            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
-            "values": {
-                "recommended": 20
-            }
-        }
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+  "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+  "core": {
+    "goal":{
+      "_comment": [
+        "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+      ],
+      "display_name": "The End Objective",
+      "description": "How to End your Randomized playthrough.",
+      "aliases": {"easiest": 0},
+      "visibility": ["none"]
     },
-    "user": {
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
-        "Example_Toggle":{
-            "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
-        },
-        "Example_Choice":{
-            "type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
-        }
+    "death_link": {
+      "display_name": "DeathLink",
+      "group": "DeathLink",
+      "description": [
+        "It's everyone's favourite option, DeathLink!",
+        "If you receive one, close and reopen the game.",
+        "Send conditions are described in the other DeathLink-grouped options."
+      ],
+      "Type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "_filler_traps": {
+      "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+      "values": {
+        "recommended": 20
+      }
     }
+  },
+  "user": {
+    "quizsanity":{
+      "display_name": "Quizsanity",
+      "group": "General",
+      "description": [
+        "Controls the Quizzes.",
+        "These Quizzes and their associated Insights",
+        "make up 229 total locations in the game.",
+        "NOTE: THIS OPTION IS NOT RECOMMENDED FOR SYNC GAMES."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "enable_reinstall_trap":{
+      "display_name": "Enable Reinstall Trap",
+      "group": "General",
+      "description": [
+        "If you receive this trap (if enabled), you must reinstall Nintendo Switch 2 Welcome Tour.",
+        "The severity of this trap is dependent on your internet speed.",
+        "This trap is only recommended for sync games (unless you have some kind of Async Bot)"
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "enable_skip_signal":{
+      "display_name": "Skip Signal as items",
+      "group": "General",
+      "description": [
+        "Places a few \"Skip Signal\" items in the multiworld.",
+        "These can be used to skip activities that you have enabled.",
+        "To skip an activity, stand next to it and type a morse-code SOS with the Y button.",
+        "NOTE: You can always skip activities that are disabled in your yaml!"
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "dynamic_medal_requirements":{
+      "display_name": "Dynamic Medal Requirements",
+      "group": "General",
+      "description": [
+        "Scales medal requirements according to 3 pre-defined percentages.",
+        "\"low\" scales medal requirements as a percentage of 167,",
+        "the grand total amount of medals contained in Welcome Tour.",
+        "\"medium\" scales medal requirements as a percentage of 148,",
+        "the amount of medals you can earn without any additional accessories.",
+        "\"high\" scales medal requirements as a percentage of 120,",
+        "a rough middle-point between \"medium\" and \"extreme\".",
+        "\"extreme\" scales medal requirements as a percentage of 91,",
+        "the amount of medals you can earn on \"high\" minus the \"hard\" medals."
+      ],
+      "values": {"disabled": 0, "low": 1, "medium": 2, "high": 3, "extreme": 4},
+      "type": "Choice", "default": 2, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "split_joycon2_interiors":{
+      "display_name": "Split Joy-Con 2 Interiors",
+      "group": "General",
+      "description": [
+        "The Joy-Con 2 Interiors are defined as separate regions",
+        "for map tracking purposes (they have fade transitions between them)",
+        "...but you can also lock the lower areas behind stamps if you'd like."
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigames_medal_1":{
+      "display_name": "Minigame Medals (Easy)",
+      "group": "Medals",
+      "description": [
+        "Controls the \"Easy\" medals for minigames.",
+        "These are the first medals listed, and obviously the easiest to earn.",
+        "This option is intended to be hidden..."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["spoiler"]
+    },
+    "minigames_medal_2":{
+      "display_name": "Minigame Medals (Medium)",
+      "group": "Medals",
+      "description": [
+        "Controls the \"Medium\" medals for minigames.",
+        "These are the second medals listed, generally being in the middle difficulty-wise."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigames_medal_3":{
+      "display_name": "Minigame Medals (Hard)",
+      "group": "Medals",
+      "description": [
+        "Controls the \"Hard\" medals for minigames.",
+        "These are the third medals listed, and obviously the hardest to earn.",
+        "These medals are also hidden by default, only being revealed upon earning,",
+        "or by re-entering a minigame with the first 2 medals already earned.",
+        "NOTE: THIS OPTION IS NOT RECOMMENDED FOR SYNC GAMES."
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_joycon2_mouse":{
+      "display_name": "Accessories: Joy-Con 2 - Mouse Controls",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require the Joy-Con 2 controllers' new mouse mode.",
+        "This consists of... uh, most of the stuff in Welcome Tour, actually.",
+        "Too much to list in a simple option description, in fact..."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_joycon2_rumble":{
+      "display_name": "Accessories: Joy-Con 2 - HD Rumble 2",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require HD Rumble 2.",
+        "This consists of all activities that have \"Rumble\" in the name.",
+        "Coincedentally, all of these specifically require the Joy-Con 2's HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_joycon2_motion":{
+      "display_name": "Accessories: Joy-Con 2 - Motion Controls",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that extensively utilize motion controls.",
+        "This consists of the \"Touch Ten\", \"Guess the Angle\", and \"LCD Pixel Hunt\" minigames,",
+        "as well as the \"Dual HD Rumble 2\" and \"VRR Slider\"* tech demos.",
+        "*VRR is currently not supported in TV mode."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_handheld_mode":{
+      "display_name": "Accessories: Handheld Mode",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require handheld mode.",
+        "This consists of the \"Touch Ten\", \"Guess the Angle\", and \"LCD Pixel Hunt\" minigames,",
+        "as well as the \"Dual HD Rumble 2\" and \"VRR Slider\"* tech demos.",
+        "*VRR is currently not supported in TV mode."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_microphone":{
+      "display_name": "Accessories: Microphone",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require a microphone.",
+        "This consists of the \"Noise Reduction\" and \"Echo Generator\" tech demos.",
+        "The Nintendo Switch 2 console has a built-in mic, but USB mics also work."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_120hz_display":{
+      "display_name": "Accessories: 120hz Display",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require a 120hz display.",
+        "This consists solely of the \"Guess the Frame Rate\" minigame.",
+        "Note: The Nintendo Switch 2's handheld mode display has 120hz.",
+        "If you enable "
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_hdr_display":{
+      "display_name": "Accessories: HDR Display",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require an HDR display.",
+        "This consists solely of the \"Guess the Frame Rate\" minigame.",
+        "Note: The Nintendo Switch 2's handheld mode display has HDR.",
+        "...extremely weak HDR, but technically \"HDR\" nonetheless."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_4k_display":{
+      "display_name": "Accessories: 4K Display",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require a 4K display.",
+        "This consists of the \"Super Mario Bros. 4K\" tech demo and the \"4K Pixel Hunt\" minigame."
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_camera":{
+      "display_name": "Accessories: Camera",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require a Switch 2-compatible USB camera.",
+        "This consists solely of the \"Facial Impressions\" minigame.",
+        "The Switch 2 is extremely picky about USB cameras, so test to make sure",
+        "your camera actually works with your Switch 2 before enabling this option."
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_gl_gr":{
+      "display_name": "Accessories: GL/GR Buttons",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require GL/GR buttons.",
+        "This consists solely of the \"Open the GL/GR Locks\" minigame.",
+        "GL/GR buttons can be found on the Joy-Con 2 Charging Grip and Switch 2 Pro Controller."
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo01_maracas_physics":{
+      "display_name": "Tech Demo 01: Maracas Physics",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Maracas Physics\" tech demo specifically.",
+        "This minigame requires Joy-Con 2 motion controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo02_hdr_fireworks":{
+      "display_name": "Tech Demo 02: HDR Fireworks",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"HDR Fireworks\" tech demo specifically.",
+        "This minigame requires an HDR display, via either",
+        "the Switch 2's handheld display, or the Dock."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo03_super_mario_bros_4k":{
+      "display_name": "Tech Demo 03: Super Mario Bros. 4K (1-1)",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Super Mario Bros. 4K (1-1)\" tech demo specifically.",
+        "This minigame requires a 4K display connected to the dock."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo04_noise_reduction":{
+      "display_name": "Tech Demo 04: Noise Reduction",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Noise Reduction\" tech demo specifically.",
+        "This minigame requires a microphone,",
+        "and the Switch 2 console has one built-in."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo05_hd_rumble_2_sound":{
+      "display_name": "Tech Demo 05: HD Rumble 2 Sound",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"HD Rumble 2 Sound\" tech demo specifically.",
+        "This minigame requires HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo06_super_resolution":{
+      "display_name": "Tech Demo 06: Super Resolution",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Super Resolution\" tech demo specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo07_dual_hd_rumble_2":{
+      "display_name": "Tech Demo 07: Dual HD Rumble 2",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Dual HD Rumble 2\" tech demo specifically.",
+        "This minigame requires handheld mode and HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo08_hd_rumble_2_saw":{
+      "display_name": "Tech Demo 08: HD Rumble 2 Saw",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"HD Rumble 2 Saw\" tech demo specifically.",
+        "This minigame requires Joy-Con 2 mouse controls and HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo09_dual_mouse_water_scoop":{
+      "display_name": "Tech Demo 09: Dual-Mouse Water Scoop",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Dual-Mouse Water Scoop\" tech demo specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo10_echo_generator":{
+      "display_name": "Tech Demo 10: Echo Generator",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"Echo Generator\" tech demo specifically.",
+        "This minigame requires a microphone,",
+        "and the Switch 2 console has one built-in."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo11_vrr_slider":{
+      "display_name": "Tech Demo 11: VRR Slider",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"VRR Slider\" tech demo specifically.",
+        "This tech demo requires handheld mode* and Joy-Con 2 mouse controls.",
+        "*VRR is not currently supported in TV mode. If it ever is,",
+        "I will be updating these options to account for that."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo12_hd_rumble_2_maker":{
+      "display_name": "Tech Demo 12: HD Rumble 2 Maker",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"HD Rumble 2 Maker\" tech demo specifically.",
+        "This tech demo requires Joy-Con 2 mouse controls and HD Rumble 2.",
+        "Bizarrely enough, this tech demo is found at the Pro Controller 2,",
+        "despite requiring a pair of Joy-Con 2 to actually play."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo13_hd_rumble_2_motorcycle":{
+      "display_name": "Tech Demo 13: HD Rumble 2 Motorcycle",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"HD Rumble 2 Motorcycle\" tech demo specifically.",
+        "This tech demo requires Joy-Con 2 motion controls and HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "techdemo14_3d_sound":{
+      "display_name": "Tech Demo 14: 3D Sound",
+      "group": "Tech Demos",
+      "description": [
+        "Controls the \"3D Sound\" tech demo specifically."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame01_dodge_the_spiked_balls":{
+      "display_name": "Minigame 01: Dodge the Spiked Balls",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Dodge the Spiked Balls\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame02_find_the_strongest_rumble":{
+      "display_name": "Minigame 02: Find the Strongest Rumble",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Find the Strongest Rumble\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls and HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame03_guess_the_frame_rate":{
+      "display_name": "Minigame 03: Guess the Frame Rate",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Guess the Frame Rate\" minigame specifically.",
+        "This minigame requires a 120hz display, via either",
+        "the Switch 2's handheld display, or the Dock."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame04_touch_ten":{
+      "display_name": "Minigame 04: Touch Ten",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Touch Ten\" minigame specifically.",
+        "This minigame requires handheld mode."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame05_guess_the_angle":{
+      "display_name": "Minigame 05: Guess the Angle",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Guess the Angle\" minigame specifically.",
+        "This minigame requires handheld mode."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame06_speed_maze":{
+      "display_name": "Minigame 06: Speed Maze",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Speed Maze\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame07_speed_golf":{
+      "display_name": "Minigame 07: Speed Golf",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Speed Golf\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame08_click_quick":{
+      "display_name": "Minigame 08: Click Quick",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Click Quick\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame09_4k_pixel_hunt":{
+      "display_name": "Minigame 09: 4K Pixel Hunt",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"4K Pixel Hunt\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls,",
+        "and a 4K display connected to the dock."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame10_facial_impressions":{
+      "display_name": "Minigame 10: Facial Impressions",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Facial Impressions\" minigame specifically.",
+        "This minigame requires a Switch 2-compatible USB camera."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame11_feel_the_shape":{
+      "display_name": "Minigame 11: Feel the Shape",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Feel the Shape\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls and HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame12_color_the_shapes":{
+      "display_name": "Minigame 12: Color the Shapes",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Color the Shapes\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame13_match_the_rumble":{
+      "display_name": "Minigame 13: Match the Rumble",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Match the Rumble\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls and HD Rumble 2."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame14_balloon_hunt":{
+      "display_name": "Minigame 14: Balloon Hunt",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Balloon Hunt\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame15_lcd_pixel_hunt":{
+      "display_name": "Minigame 15: LCD Pixel Hunt",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"LCD Pixel Hunt\" minigame specifically.",
+        "This minigame requires Handheld Mode and Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame16_scrape_off":{
+      "display_name": "Minigame 16: Scrape Off",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Scrape Off\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls.",
+        "!!! I HIGHLY RECOMMEND LEAVING THIS DISABLED !!!",
+        "SCRAPE OFF IS EXTREMELY PHYSICALLY DEMANDING",
+        "AND YOU ARE VERY LIKELY TO HURT YOUR HANDS"
+      ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame17_open_the_gl_gr_locks":{
+      "display_name": "Minigame 17: Open the GL/GR Locks",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Open the GL/GR Locks\" minigame specifically.",
+        "This minigame requires GL/GR buttons."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame18_stunt_driving":{
+      "display_name": "Minigame 18: Stunt Driving",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Stunt Driving\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame19_breaststroke":{
+      "display_name": "Minigame 19: Breaststroke",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Breaststroke\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame20_slot_in_the_shapes":{
+      "display_name": "Minigame 20: Slot In the Shapes",
+      "group": "Minigames",
+      "description": [
+        "Controls the \"Slot In the Shapes\" minigame specifically.",
+        "This minigame requires Joy-Con 2 mouse controls."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "minigame_attempts":{
+      "display_name": "DeathLink: Minigame Attempts",
+      "group": "DeathLink",
+      "description": [
+        "How many times you need to fail a minigame in a row before sending a DeathLink.",
+        "The default is 5. This resets upon clearing the minigame or switching to another one.",
+        "A value of 0 means that failing a minigame should not send a DeathLink."
+      ],
+      "range_start": 0,
+      "range_end": 10,
+      "values": {"disabled": 0,"default": 5},
+      "type": "Range", "default": 5, "visibility": ["simple_ui","complex_ui","template","spoiler"]
+    },
+    "quiz_attempts":{
+      "display_name": "DeathLink: Quiz Attempts",
+      "group": "DeathLink",
+      "description": [
+        "How many times you need to fail a quiz before sending a DeathLink.",
+        "The default is 1. This resets upon getting a perfect score on the quiz.",
+        "A value of 0 means that failing a quiz should not send a DeathLink."
+      ],
+      "range_start": 0,
+      "range_end": 10,
+      "values": {"disabled": 0,"default": 1},
+      "type": "Range", "default": 1, "visibility": ["simple_ui","complex_ui","template","spoiler"]
+    }
+  }
 
 }

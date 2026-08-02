@@ -1,0 +1,514 @@
+﻿# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default "I Have Everything" preset for Switch 2 Welcome Tour
+
+game: Manual_Nintendo Switch 2 Welcome Tour_Iristallite
+requires:
+  version: 0.6.7 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_Nintendo Switch 2 Welcome Tour_Iristallite:
+  ################
+  # Game Options #
+  ################
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-99: 0 # random value between 0 and 99
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # **Full:** ensure everything can be reached and acquired.
+    # 
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 50
+    minimal: 0
+
+  death_link:
+    # It's everyone's favourite option, DeathLink!
+    # If you receive one, close and reopen the game.
+    # Send conditions are described in the other DeathLink-grouped options.
+    'false': 0
+    'true': 50
+
+  ###########
+  # General #
+  ###########
+  quizsanity:
+    # Controls the Quizzes.
+    # These Quizzes and their associated Insights
+    # make up 229 total locations in the game.
+    # NOTE: THIS OPTION IS NOT RECOMMENDED FOR SYNC GAMES.
+    'false': 0
+    'true': 50
+
+  enable_reinstall_trap:
+    # If you receive this trap (if enabled), you must reinstall Nintendo Switch 2 Welcome Tour.
+    # The severity of this trap is dependent on your internet speed.
+    # This trap is only recommended for sync games (unless you have some kind of Async Bot)
+    'false': 0
+    'true': 50
+
+  enable_skip_signal:
+    # Places a few "Skip Signal" items in the multiworld.
+    # These can be used to skip activities that you have enabled.
+    # To skip an activity, stand next to it and type a morse-code SOS with the Y button.
+    # NOTE: You can always skip activities that are disabled in your yaml!
+    'false': 0
+    'true': 50
+
+  dynamic_medal_requirements:
+    # Scales medal requirements according to 3 pre-defined percentages.
+    # "low" scales medal requirements as a percentage of 167,
+    # the grand total amount of medals contained in Welcome Tour.
+    # "medium" scales medal requirements as a percentage of 148,
+    # the amount of medals you can earn without any additional accessories.
+    # "high" scales medal requirements as a percentage of 120,
+    # a rough middle-point between "medium" and "extreme".
+    # "extreme" scales medal requirements as a percentage of 91,
+    # the amount of medals you can earn on "high" minus the "hard" medals.
+    disabled: 0
+    low: 0
+    medium: 50
+    high: 0
+    extreme: 0
+
+  split_joycon2_interiors:
+    # The Joy-Con 2 Interiors are defined as separate regions
+    # for map tracking purposes (they have fade transitions between them)
+    # ...but you can also lock the lower areas behind stamps if you'd like.
+    'false': 0
+    'true': 50
+
+  ##########
+  # Medals #
+  ##########
+  minigames_medal_2:
+    # Controls the "Medium" medals for minigames.
+    # These are the second medals listed, generally being in the middle difficulty-wise.
+    'false': 0
+    'true': 50
+
+  minigames_medal_3:
+    # Controls the "Hard" medals for minigames.
+    # These are the third medals listed, and obviously the hardest to earn.
+    # These medals are also hidden by default, only being revealed upon earning,
+    # or by re-entering a minigame with the first 2 medals already earned.
+    # NOTE: THIS OPTION IS NOT RECOMMENDED FOR SYNC GAMES.
+    'false': 0
+    'true': 50
+
+  ###############
+  # Accessories #
+  ###############
+  accessory_joycon2_mouse:
+    # Controls all activities that require the Joy-Con 2 controllers' new mouse mode.
+    # This consists of... uh, most of the stuff in Welcome Tour, actually.
+    # Too much to list in a simple option description, in fact...
+    'false': 0
+    'true': 50
+
+  accessory_joycon2_rumble:
+    # Controls all activities that require HD Rumble 2.
+    # This consists of all activities that have "Rumble" in the name.
+    # Coincedentally, all of these specifically require the Joy-Con 2's HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  accessory_joycon2_motion:
+    # Controls all activities that extensively utilize motion controls.
+    # This consists of the "Touch Ten", "Guess the Angle", and "LCD Pixel Hunt" minigames,
+    # as well as the "Dual HD Rumble 2" and "VRR Slider"* tech demos.
+    # *VRR is currently not supported in TV mode.
+    'false': 0
+    'true': 50
+
+  accessory_handheld_mode:
+    # Controls all activities that require handheld mode.
+    # This consists of the "Touch Ten", "Guess the Angle", and "LCD Pixel Hunt" minigames,
+    # as well as the "Dual HD Rumble 2" and "VRR Slider"* tech demos.
+    # *VRR is currently not supported in TV mode.
+    'false': 0
+    'true': 50
+
+  accessory_microphone:
+    # Controls all activities that require a microphone.
+    # This consists of the "Noise Reduction" and "Echo Generator" tech demos.
+    # The Nintendo Switch 2 console has a built-in mic, but USB mics also work.
+    'false': 0
+    'true': 50
+
+  accessory_120hz_display:
+    # Controls all activities that require a 120hz display.
+    # This consists solely of the "Guess the Frame Rate" minigame.
+    # Note: The Nintendo Switch 2's handheld mode display has 120hz.
+    # If you enable
+    'false': 0
+    'true': 50
+
+  accessory_hdr_display:
+    # Controls all activities that require an HDR display.
+    # This consists solely of the "Guess the Frame Rate" minigame.
+    # Note: The Nintendo Switch 2's handheld mode display has HDR.
+    # ...extremely weak HDR, but technically "HDR" nonetheless.
+    'false': 0
+    'true': 50
+
+  accessory_4k_display:
+    # Controls all activities that require a 4K display.
+    # This consists of the "Super Mario Bros. 4K" tech demo and the "4K Pixel Hunt" minigame.
+    'false': 0
+    'true': 50
+
+  accessory_camera:
+    # Controls all activities that require a Switch 2-compatible USB camera.
+    # This consists solely of the "Facial Impressions" minigame.
+    # The Switch 2 is extremely picky about USB cameras, so test to make sure
+    # your camera actually works with your Switch 2 before enabling this option.
+    'false': 0
+    'true': 50
+
+  accessory_gl_gr:
+    # Controls all activities that require GL/GR buttons.
+    # This consists solely of the "Open the GL/GR Locks" minigame.
+    # GL/GR buttons can be found on the Joy-Con 2 Charging Grip and Switch 2 Pro Controller.
+    'false': 0
+    'true': 50
+
+  ##############
+  # Tech Demos #
+  ##############
+  techdemo01_maracas_physics:
+    # Controls the "Maracas Physics" tech demo specifically.
+    # This minigame requires Joy-Con 2 motion controls.
+    'false': 0
+    'true': 50
+
+  techdemo02_hdr_fireworks:
+    # Controls the "HDR Fireworks" tech demo specifically.
+    # This minigame requires an HDR display, via either
+    # the Switch 2's handheld display, or the Dock.
+    'false': 0
+    'true': 50
+
+  techdemo03_super_mario_bros_4k:
+    # Controls the "Super Mario Bros. 4K (1-1)" tech demo specifically.
+    # This minigame requires a 4K display connected to the dock.
+    'false': 0
+    'true': 50
+
+  techdemo04_noise_reduction:
+    # Controls the "Noise Reduction" tech demo specifically.
+    # This minigame requires a microphone,
+    # and the Switch 2 console has one built-in.
+    'false': 0
+    'true': 50
+
+  techdemo05_hd_rumble_2_sound:
+    # Controls the "HD Rumble 2 Sound" tech demo specifically.
+    # This minigame requires HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  techdemo06_super_resolution:
+    # Controls the "Super Resolution" tech demo specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  techdemo07_dual_hd_rumble_2:
+    # Controls the "Dual HD Rumble 2" tech demo specifically.
+    # This minigame requires handheld mode and HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  techdemo08_hd_rumble_2_saw:
+    # Controls the "HD Rumble 2 Saw" tech demo specifically.
+    # This minigame requires Joy-Con 2 mouse controls and HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  techdemo09_dual_mouse_water_scoop:
+    # Controls the "Dual-Mouse Water Scoop" tech demo specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  techdemo10_echo_generator:
+    # Controls the "Echo Generator" tech demo specifically.
+    # This minigame requires a microphone,
+    # and the Switch 2 console has one built-in.
+    'false': 0
+    'true': 50
+
+  techdemo11_vrr_slider:
+    # Controls the "VRR Slider" tech demo specifically.
+    # This tech demo requires handheld mode* and Joy-Con 2 mouse controls.
+    # *VRR is not currently supported in TV mode. If it ever is,
+    # I will be updating these options to account for that.
+    'false': 0
+    'true': 50
+
+  techdemo12_hd_rumble_2_maker:
+    # Controls the "HD Rumble 2 Maker" tech demo specifically.
+    # This tech demo requires Joy-Con 2 mouse controls and HD Rumble 2.
+    # Bizarrely enough, this tech demo is found at the Pro Controller 2,
+    # despite requiring a pair of Joy-Con 2 to actually play.
+    'false': 0
+    'true': 50
+
+  techdemo13_hd_rumble_2_motorcycle:
+    # Controls the "HD Rumble 2 Motorcycle" tech demo specifically.
+    # This tech demo requires Joy-Con 2 motion controls and HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  techdemo14_3d_sound:
+    # Controls the "3D Sound" tech demo specifically.
+    'false': 0
+    'true': 50
+
+  #############
+  # Minigames #
+  #############
+  minigame01_dodge_the_spiked_balls:
+    # Controls the "Dodge the Spiked Balls" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame02_find_the_strongest_rumble:
+    # Controls the "Find the Strongest Rumble" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls and HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  minigame03_guess_the_frame_rate:
+    # Controls the "Guess the Frame Rate" minigame specifically.
+    # This minigame requires a 120hz display, via either
+    # the Switch 2's handheld display, or the Dock.
+    'false': 0
+    'true': 50
+
+  minigame04_touch_ten:
+    # Controls the "Touch Ten" minigame specifically.
+    # This minigame requires handheld mode.
+    'false': 0
+    'true': 50
+
+  minigame05_guess_the_angle:
+    # Controls the "Guess the Angle" minigame specifically.
+    # This minigame requires handheld mode.
+    'false': 0
+    'true': 50
+
+  minigame06_speed_maze:
+    # Controls the "Speed Maze" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame07_speed_golf:
+    # Controls the "Speed Golf" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame08_click_quick:
+    # Controls the "Click Quick" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame09_4k_pixel_hunt:
+    # Controls the "4K Pixel Hunt" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls,
+    # and a 4K display connected to the dock.
+    'false': 0
+    'true': 50
+
+  minigame10_facial_impressions:
+    # Controls the "Facial Impressions" minigame specifically.
+    # This minigame requires a Switch 2-compatible USB camera.
+    'false': 0
+    'true': 50
+
+  minigame11_feel_the_shape:
+    # Controls the "Feel the Shape" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls and HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  minigame12_color_the_shapes:
+    # Controls the "Color the Shapes" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame13_match_the_rumble:
+    # Controls the "Match the Rumble" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls and HD Rumble 2.
+    'false': 0
+    'true': 50
+
+  minigame14_balloon_hunt:
+    # Controls the "Balloon Hunt" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame15_lcd_pixel_hunt:
+    # Controls the "LCD Pixel Hunt" minigame specifically.
+    # This minigame requires Handheld Mode and Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame16_scrape_off:
+    # Controls the "Scrape Off" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    # !!! I HIGHLY RECOMMEND LEAVING THIS DISABLED !!!
+    # SCRAPE OFF IS EXTREMELY PHYSICALLY DEMANDING
+    # AND YOU ARE VERY LIKELY TO HURT YOUR HANDS
+    'false': 0
+    'true': 50
+
+  minigame17_open_the_gl_gr_locks:
+    # Controls the "Open the GL/GR Locks" minigame specifically.
+    # This minigame requires GL/GR buttons.
+    'false': 0
+    'true': 50
+
+  minigame18_stunt_driving:
+    # Controls the "Stunt Driving" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame19_breaststroke:
+    # Controls the "Breaststroke" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  minigame20_slot_in_the_shapes:
+    # Controls the "Slot In the Shapes" minigame specifically.
+    # This minigame requires Joy-Con 2 mouse controls.
+    'false': 0
+    'true': 50
+
+  #############
+  # DeathLink #
+  #############
+  minigame_attempts:
+    # How many times you need to fail a minigame in a row before sending a DeathLink.
+    # The default is 5. This resets upon clearing the minigame or switching to another one.
+    # A value of 0 means that failing a minigame should not send a DeathLink.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 10
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-10: 0 # random value between 0 and 10
+    disabled: 0 # equivalent to 0
+    default: 50 # equivalent to 5
+
+  quiz_attempts:
+    # How many times you need to fail a quiz before sending a DeathLink.
+    # The default is 1. This resets upon getting a perfect score on the quiz.
+    # A value of 0 means that failing a quiz should not send a DeathLink.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 10
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-10: 0 # random value between 0 and 10
+    disabled: 0 # equivalent to 0
+    default: 50 # equivalent to 1
+
+  ###########################
+  # Item & Location Options #
+  ###########################
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with the specified amount of these items. Example: "Bomb: 1"
+    {}
+
+  start_inventory_from_pool:
+    # Start with the specified amount of these items and don't place them in the world. Example: "Bomb: 1"
+    # 
+    # The game decides what the replacement items will be.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
+    []

@@ -1,3 +1,5 @@
 release/*
 apworlds/*.zip
 apworlds/*.apworld
+Archipelago
+*.pyc
