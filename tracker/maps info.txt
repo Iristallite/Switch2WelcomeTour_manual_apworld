@@ -1,0 +1,72 @@
+work-in-progress map data can be found here, because it's like 500mb: https://drive.google.com/file/d/1aPM3tT80zQCWxTjep6qzSk1ptgP_lu0g/view?usp=sharing
+
+filesize goal per map is ~200kb
+aiming to undershoot (if over ~210, go down 1% based on vibes)
+total map image budget: 12mb
+
+eventual: 370kb with 4K images, total budget 22mb
+encoding using AVIF medium 444
+ABCDEFGHIJKL
+12+3=15 areas * 4 rotations = 60
+-2 unusable dock rotations = 58
+
+
+avif quality, pin size
+A_0deg    : 89%, 16px
+A_90deg   : 89%
+A_180deg  : 89%
+A_270deg  : 89%
+B_0deg    : 83%, 8px
+B_90deg   : 84%
+B_180deg  : 84%
+B_270deg  : 85%
+C_0deg    : 90%, 16px
+C_90deg   : 90%
+C_180deg  : 89%
+C_270deg  : 89%
+D1_0deg   : 90%
+D1_90deg  : 90%
+D1_180deg : 90%
+D1_270deg : 90%
+D2_0deg   : 96%
+D2_90deg  : 95%
+D2_180deg : 96%
+D2_270deg : 94%
+E_0deg    : 85%, 10px
+E_90deg   : 81%
+E_180deg  : 83%
+E_270deg  : 84%
+F_0deg    : 89%, 8px 
+F_90deg   : 90%
+G_0deg    : 94%, 8px
+G_90deg   : 94%
+G_180deg  : 92%
+G_270deg  : 94%
+H1_0deg   : 92%, 16px
+H1_90deg  : 92%
+H1_180deg : 91%
+H1_270deg : 91%
+H2_0deg   : 95%
+H2_90deg  : 95%
+H2_180deg : 95%
+H2_270deg : 95%
+I_0deg    : 90%, 14px
+I_90deg   : 88%
+I_180deg  : 88%
+I_270deg  : 88%
+J_0deg    : 88%, 10px
+J_90deg   : 88%
+J_180deg  : 88%
+J_270deg  : 88%
+K_0deg    : 90%, 12px
+K_90deg   : 90%
+K_180deg  : 90%
+K_270deg  : 90%
+L1_0deg   : 85%, 8px
+L1_90deg  : 85%
+L1_180deg : 85%
+L1_270deg : 85%
+L2_0deg   : 91%, 24px
+L2_90deg  : 91%
+L2_180deg : 91%
+L2_270deg : 91%

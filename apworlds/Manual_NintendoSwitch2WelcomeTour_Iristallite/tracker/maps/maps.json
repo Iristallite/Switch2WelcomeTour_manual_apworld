@@ -1,0 +1,350 @@
+[
+  {
+    "name": "area_a_joy_con_2_l_0",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/1_1.avif"
+  },
+  {
+    "name": "area_a_joy_con_2_l_90",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/1_2.avif"
+  },
+  {
+    "name": "area_a_joy_con_2_l_180",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/1_3.avif"
+  },
+  {
+    "name": "area_a_joy_con_2_l_270",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/1_4.avif"
+  },
+  {
+    "name": "area_b_nintendo_switch_2_console_0",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/2_1.avif"
+  },
+  {
+    "name": "area_b_nintendo_switch_2_console_90",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/2_2.avif"
+  },
+  {
+    "name": "area_b_nintendo_switch_2_console_180",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/2_3.avif"
+  },
+  {
+    "name": "area_b_nintendo_switch_2_console_270",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/2_4.avif"
+  },
+  {
+    "name": "area_c_joy_con_2_r_0",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/3_1.avif"
+  },
+  {
+    "name": "area_c_joy_con_2_r_90",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/3_2.avif"
+  },
+  {
+    "name": "area_c_joy_con_2_r_180",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/3_3.avif"
+  },
+  {
+    "name": "area_c_joy_con_2_r_270",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/3_4.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_upper_0",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_1_1.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_upper_90",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_1_2.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_upper_180",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_1_3.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_upper_270",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_1_4.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_lower_0",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_2_1.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_lower_90",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_2_2.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_lower_180",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_2_3.avif"
+  },
+  {
+    "name": "area_d_joy_con_2_r_interior_lower_270",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/4_2_4.avif"
+  },
+  {
+    "name": "area_e_joy_con_2_strap_0",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/5_1.avif"
+  },
+  {
+    "name": "area_e_joy_con_2_strap_90",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/5_2.avif"
+  },
+  {
+    "name": "area_e_joy_con_2_strap_180",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/5_3.avif"
+  },
+  {
+    "name": "area_e_joy_con_2_strap_270",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/5_4.avif"
+  },
+  {
+    "name": "area_f_nintendo_switch_2_dock_0",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/6_1.avif"
+  },
+  {
+    "name": "area_f_nintendo_switch_2_dock_90",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/6_2.avif"
+  },
+  {
+    "name": "area_g_nintendo_switch_2_camera_0",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/7_1.avif"
+  },
+  {
+    "name": "area_g_nintendo_switch_2_camera_90",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/7_2.avif"
+  },
+  {
+    "name": "area_g_nintendo_switch_2_camera_180",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/7_3.avif"
+  },
+  {
+    "name": "area_g_nintendo_switch_2_camera_270",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/7_4.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_upper_0",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_1_1.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_upper_90",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_1_2.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_upper_180",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_1_3.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_upper_270",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_1_4.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_lower_0",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_2_1.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_lower_90",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_2_2.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_lower_180",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_2_3.avif"
+  },
+  {
+    "name": "area_h_joy_con_2_l_interior_lower_270",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/8_2_4.avif"
+  },
+  {
+    "name": "area_i_joy_con_2_grip_0",
+    "location_size": 14,
+    "location_border_thickness": 2,
+    "img": "images/9_1.avif"
+  },
+  {
+    "name": "area_i_joy_con_2_grip_90",
+    "location_size": 14,
+    "location_border_thickness": 2,
+    "img": "images/9_2.avif"
+  },
+  {
+    "name": "area_i_joy_con_2_grip_180",
+    "location_size": 14,
+    "location_border_thickness": 2,
+    "img": "images/9_3.avif"
+  },
+  {
+    "name": "area_i_joy_con_2_grip_270",
+    "location_size": 14,
+    "location_border_thickness": 2,
+    "img": "images/9_4.avif"
+  },
+  {
+    "name": "area_j_nintendo_switch_2_pro_controller_0",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/10_1.avif"
+  },
+  {
+    "name": "area_j_nintendo_switch_2_pro_controller_90",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/10_2.avif"
+  },
+  {
+    "name": "area_j_nintendo_switch_2_pro_controller_180",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/10_3.avif"
+  },
+  {
+    "name": "area_j_nintendo_switch_2_pro_controller_270",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/10_4.avif"
+  },
+  {
+    "name": "area_k_joy_con_2_wheel_0",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/11_1.avif"
+  },
+  {
+    "name": "area_k_joy_con_2_wheel_90",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/11_2.avif"
+  },
+  {
+    "name": "area_k_joy_con_2_wheel_180",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/11_3.avif"
+  },
+  {
+    "name": "area_k_joy_con_2_wheel_270",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/11_4.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_console_interior_0",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/12_1.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_console_interior_90",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/12_2.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_console_interior_180",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/12_3.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_console_interior_270",
+    "location_size": 8,
+    "location_border_thickness": 2,
+    "img": "images/12_4.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_computer_0",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/13_1.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_computer_90",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/13_2.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_computer_180",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/13_3.avif"
+  },
+  {
+    "name": "area_l_nintendo_switch_2_computer_270",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "img": "images/13_4.avif"
+  }
+]

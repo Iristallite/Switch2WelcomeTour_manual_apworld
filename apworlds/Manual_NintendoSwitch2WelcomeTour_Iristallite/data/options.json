@@ -29,14 +29,36 @@
     }
   },
   "user": {
-    "quizsanity":{
-      "display_name": "Quizsanity",
+    "area_shuffle":{
+      "display_name": "Area Shuffle",
+      "group": "General",
+      "description": [
+        "Instead of areas being gated by Stamps, like the vanilla game,",
+        "they will be gated by their own Area items.",
+        "Stamps are no longer considered checks in this mode",
+        "To win, find 12 out of 15 Lost Items."
+        ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "enable_npcs":{
+      "display_name": "Enable NPCs",
+      "group": "General",
+      "description": [
+        "Intended for Area Shuffle mode as a replacement for Stamps,",
+        "you can make all optional NPCs into checks.",
+        "You could technially also enable this in progressive areas mode,",
+        "but please don't... unless you're trying to intentionally inflate the check count."
+        ],
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "enable_quizzes":{
+      "display_name": "Enable Quizzes",
       "group": "General",
       "description": [
         "Controls the Quizzes.",
         "These Quizzes and their associated Insights",
         "make up 229 total locations in the game.",
-        "NOTE: THIS OPTION IS NOT RECOMMENDED FOR SYNC GAMES."
+        "NOTE: THIS OPTION IS NOT RECOMMENDED FOR SYNC GAMES INTENDED UNDER 6 HOURS."
       ],
       "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
     },
@@ -77,16 +99,6 @@
       ],
       "values": {"disabled": 0, "low": 1, "medium": 2, "high": 3, "extreme": 4},
       "type": "Choice", "default": 2, "visibility": ["simple_ui","template","spoiler"]
-    },
-    "split_joycon2_interiors":{
-      "display_name": "Split Joy-Con 2 Interiors",
-      "group": "General",
-      "description": [
-        "The Joy-Con 2 Interiors are defined as separate regions",
-        "for map tracking purposes (they have fade transitions between them)",
-        "...but you can also lock the lower areas behind stamps if you'd like."
-      ],
-      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
     },
     "minigames_medal_1":{
       "display_name": "Minigame Medals (Easy)",
@@ -351,7 +363,8 @@
       "display_name": "Tech Demo 14: 3D Sound",
       "group": "Tech Demos",
       "description": [
-        "Controls the \"3D Sound\" tech demo specifically."
+        "Controls the \"3D Sound\" tech demo specifically.",
+        "This tech demo requires handheld mode."
       ],
       "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
     },
@@ -369,9 +382,10 @@
       "group": "Minigames",
       "description": [
         "Controls the \"Find the Strongest Rumble\" minigame specifically.",
-        "This minigame requires Joy-Con 2 mouse controls and HD Rumble 2."
+        "This minigame requires Joy-Con 2 mouse controls and HD Rumble 2.",
+        "This minigame is also disabled by default because it is essentially just gambling."
       ],
-      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+      "type": "Toggle", "default": false, "visibility": ["simple_ui","template","spoiler"]
     },
     "minigame03_guess_the_frame_rate":{
       "display_name": "Minigame 03: Guess the Frame Rate",

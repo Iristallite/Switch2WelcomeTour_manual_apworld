@@ -1,0 +1,1 @@
+Copy-Item -Path ".\Manual_NintendoSwitch2WelcomeTour_Iristallite.apworld" -Destination "..\..\Archipelago\custom_worlds\" -Force -Verbose

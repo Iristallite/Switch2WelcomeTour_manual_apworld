@@ -1,0 +1,152 @@
+The card slot is exclusively for use\nwith microSD Express cards.\n...but I really wish you could use\na "non-Express" microSD for\nplaying Switch 1 software and\narchiving Switch 2 software.
+
+
+
+              "label": "Why is the answer to this question Wii and not DS???",
+              "label": "Ah yes, \"0.001 GB\" ???\nWhat a weird way to say \"1 MB\"...",
+"label": "This functions as the\nmain computer.", 
+
+
+              "label": "Minigame 16: Scrape Off\n(This game blows!)",
+
+NS2W: Joy-Con 2 Slot (Left)
+
+              "label": "Push here to press the SL Button\non the Joy-Con 2 controller.",
+
+NS2W: Joy-Con 2 Slot (Right)
+
+              "label": "Push here to press the SR Button\non the Joy-Con 2 controller.",
+
+Scrape Off
+"This game blows!"
+
+
+JC2R: C Button
+You can press this button to
+access GameChat.
+Fun fact: This button is remappable!
+I'd recommend setting it to be a
+secondary Capture button if you
+don't care about GameChat. 
+
+Switch 2 Interior - Battery
+This one is deceptively easy to miss... 
+JC2L: Mouse Foot (Upper)
+The mouse feet make it easier
+to slide the Joy-Con 2 controllers
+around when you're using mouse controls. 
+Iris irislynnfield
+ — 2026-07-22 8:44 PM
+JC2L: Release Button
+You can lightly press these buttons
+to detach the Joy-Con 2 controllers
+from the console. 
+JC2L: Mouse Sensor
+These sensors check the surface
+they're on (e.g., a table or your lap)
+to work out how they've moved.
+JC2L: Magnetic Connector
+This mechanism attaches the
+Joy-Con 2 controllers to the
+console.
+JC2L: Mouse Foot (Lower)
+When you use mouse controls, the
+mouse feet make the Joy-Con 2
+controllers easier to move around.
+JC2R: NFC Touchpoint
+You can scan an amiibo by
+holding it here.
+NS2Co: Magnetic Connector (Right)
+This mechanism attaches the
+Joy-Con 2 (R) to the console. 
+NS2Co: Magnetic Connector (Left)
+This mechanism attaches the
+Joy-Con 2 (L) to the console. 
+NS2Co: Microphone
+The microphone can also
+remove background noise. 
+Iris irislynnfield
+ — 2026-07-22 8:52 PM
+NS2Co: USB Type-C Connector (Upper)
+This connector can be used to
+charge the console's battery,
+connect a camera, and more.
+
+...but it sadly can't transfer Album data,
+which made making this pack really
+annoying, as I had to undock to copy
+the higher-quality docked-mode
+screenshots of the overhead views. 
+JC2RI-2: HD Rumble 2
+These parts can produce
+strong vibrations.
+JC2S: Mouse Foot (Upper) + Mouse Foot (Lower)
+The strap's larger mouse feet make
+it easier to move a Joy-Con 2
+controller around like a mouse.
+
+...I'm getting a sense of deja vu,
+did they write this text twice? 
+JC2S: Rubber Caps
+These rubber caps help to muffle
+the noise produced when the
+Joy-Con 2 controllers vibrate.
+JC2S: Cover
+The cover wraps around where
+the strap ends meet.
+NS2D: Back Cover Locking Mechanism
+I love how blunt the description of this one is.
+Yep, that sure is a Back Cover Locking Mechanism..
+NS2D: LAN Port
+Is Nintendo allergic to the word Ethernet?
+Iris irislynnfield
+ — 2026-07-22 8:59 PM
+NS2Ca: Operation LED
+The camera is actively capturing
+footage while this LED is lit.
+NS2Ca: Camera Ring Slider
+You can turn this slider to
+cover up the lens.
+JC2G: Rubber Cap (Upper Left)
+These rubber caps help muffle
+the noise produced when the
+Joy-Con 2 controllers rumble.
+
+Weirdly, this is the only one of
+those that has this text attached. 
+JC2G: Nintendo Switch 2 Logo
+This was very necessary to include
+as its own stamp, I assure you. 
+Iris irislynnfield
+ — 2026-07-22 9:13 PM
+NS2P: C Button
+JC2R: C Button
+You can press this button to
+access GameChat.
+
+Fun fact: This button is remappable!
+I'd recommend setting it to be a
+secondary Capture button if you
+don't care about GameChat.
+NS2P: USB Type-C Connector
+...no stamp for the charging LED? sure man
+NS2P: GL Button
+It's the yuri button!!!
+NS2P: GR Button
+WELCOME TO THE NINTENDO SWITCH 2 RAGE ROOM!!!!!
+NS2P: +Control Pad
+Nerrel's gonna be pissed.
+NS2P: Left Stick + Right Stick
+These control sticks glide smoothly.
+
+...they might not stay smooth though,
+they're an outdated potentiometer design
+internally, but at least they aren't soldered in? 
+NS2P: Audio Jack
+The audio jack lets you use
+headphones while playing, or a
+headset when using GameChat.
+
+Fun? fact: To use this jack wirelessly, the
+Pro Controller must be the only wireless
+controller connected to the console.

@@ -78,6 +78,17 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+
+    # area shuffle starting item
+    # (this didn't work)
+    ### if (world.options.area_shuffle == 1):
+    ###     areaList: list[ManualItem] = []
+    ###     for area in item_pool:
+    ###         if ("Area " in area.name):
+    ###             areaList.append(area)
+    ###     breakpoint()
+    ###     world.start_inventory.update({random.choice(areaList).name: 1})
+    ###     breakpoint()
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
 

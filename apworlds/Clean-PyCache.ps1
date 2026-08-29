@@ -1,0 +1,2 @@
+Remove-Item .\Manual_NintendoSwitch2WelcomeTour_Iristallite\__pycache__\ -Force -Recurse -Verbose
+Remove-Item .\Manual_NintendoSwitch2WelcomeTour_Iristallite\hooks\__pycache__\ -Force -Recurse -Verbose

@@ -1,0 +1,1 @@
+Compress-Archive -Path ".\Manual_NintendoSwitch2WelcomeTour_Iristallite" -DestinationPath ".\Manual_NintendoSwitch2WelcomeTour_Iristallite.apworld" -CompressionLevel Optimal -Force -Verbose

@@ -3,3 +3,4 @@ apworlds/*.zip
 apworlds/*.apworld
 Archipelago
 *.pyc
+__pycache__
