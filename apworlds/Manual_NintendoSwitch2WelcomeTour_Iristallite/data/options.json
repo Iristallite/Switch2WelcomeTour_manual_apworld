@@ -168,8 +168,7 @@
       "description": [
         "Controls all activities that require handheld mode.",
         "This consists of the \"Touch Ten\", \"Guess the Angle\", and \"LCD Pixel Hunt\" minigames,",
-        "as well as the \"Dual HD Rumble 2\" and \"VRR Slider\"* tech demos.",
-        "*VRR is currently not supported in TV mode."
+        "as well as the \"Dual HD Rumble 2\" tech demo."
       ],
       "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
     },
@@ -190,7 +189,22 @@
         "Controls all activities that require a 120hz display.",
         "This consists solely of the \"Guess the Frame Rate\" minigame.",
         "Note: The Nintendo Switch 2's handheld mode display has 120hz.",
-        "If you enable "
+        "If you enable this, but Handheld Mode is disabled, make sure the",
+        "display connected to your Dock supports 120hz."
+      ],
+      "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
+    },
+    "accessory_vrr_display":{
+      "display_name": "Accessories: VRR Display",
+      "group": "Accessories",
+      "description": [
+        "Controls all activities that require a VRR display.",
+        "This consists solely of the \"VRR Slider\" tech demo.",
+        "Note: The Nintendo Switch 2's handheld mode display has VRR.",
+        "If you enable this, but Handheld Mode is disabled, make sure the",
+        "display connected to your Dock supports VRR.",
+        "*To use VRR while docked, you will need System Update 23.0.0 or later,",
+        "a Dock firmware update, and Welcome Tour version 1.1.0 or later."
       ],
       "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
     },
@@ -201,7 +215,9 @@
         "Controls all activities that require an HDR display.",
         "This consists solely of the \"Guess the Frame Rate\" minigame.",
         "Note: The Nintendo Switch 2's handheld mode display has HDR.",
-        "...extremely weak HDR, but technically \"HDR\" nonetheless."
+        "...extremely weak HDR, but technically \"HDR\" nonetheless.",
+        "If you enable this, but Handheld Mode is disabled, make sure the",
+        "display connected to your Dock supports HDR."
       ],
       "type": "Toggle", "default": true, "visibility": ["simple_ui","template","spoiler"]
     },

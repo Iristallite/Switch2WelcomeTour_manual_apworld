@@ -1,10 +1,17 @@
-# [v4.1](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v4.1)
-### Fixes/Minor:
 * [] Changed the minigame and tech demo selection to something slightly easier to use  
 
+# [v4.1: Thanks, Nintendo!](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v4.1) (2026-09-10)
+So, [Switch 2 update 23.0.0](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68473) added VRR support to the official Switch 2 Dock...  
+...which means I need to update the apworld to reflect VRR Slider now being playable while docked in [Welcome Tour v1.1.0](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68474).
 
-# [v4.0: Yap and Map](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v4.0)
-Published: 2026-08-29  
+Thanks, Nintendo!  
+## Major:
+* New `accessory_vrr_display` option for docked VRR
+#### Internal:
+* Fixed a minor formatting issue in `locations.json`
+
+
+# [v4.0: Yap and Map](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v4.0) (2026-08-29)  
 If it's easier to see where exactly checks are, it's easier to grab 'em quickly, right?  
 I also put the areas in a blender and gave you an excuse to actually talk to people.  
 
@@ -30,8 +37,7 @@ This should make for a better randomizer
 * Removed exact timestamps from changelog history because they were annoying to write and made me double-commit every time for no good reason
 
 
-# [v3.0: Better Options, Better Pizza!](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v3.0)
-Published: 2026-08-02
+# [v3.0: Better Options, Better Pizza!](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v3.0) (2026-08-02)
 * Defined `options.json`
 * This means the Options Creator works now
 * Added more options
@@ -48,8 +54,7 @@ Published: 2026-08-02
 * (dev info: Welcome Tour has 167 medals in total. I wish it had two more.)
 
 
-# [v2.1: The small things in life](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.1)
-Published: 2026-06-24 
+# [v2.1: The small things in life](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.1) (2026-06-24) 
 This release is mostly internal stuff, but I did add a new trap!  
 Shoutouts to the I-Ninja OST for carrying me through this.
 * DEV: Rebased to latest stable ManualAP release [20260319](https://github.com/ManualForArchipelago/Manual/releases/tag/manual_stable_20260319)
@@ -60,23 +65,20 @@ Shoutouts to the I-Ninja OST for carrying me through this.
 * Added medal descriptions to the `Open the GL/GR Locks` minigame
 * Still didn't add level 3 medals
 
-# [v2.0: Welcomesanity](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.0)
-Published: 2026-02-22
+# [v2.0: Welcomesanity](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v2.0) (2026-02-22)
 Do you want just the minigames?  
 No A-Button-destroying insights that grind the pacing to a halt and make this apworld non-sync-viable?  
 WELL I HAVE THE SOLUTION: A "QUIZSANITY" TOGGLE!!!
 * Added "Quizsanity" option
 * Tweaked "removal" options to improve generation
 
-# [v1.1: Scraped Out](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v1.1)
-Published: 2026-01-12
+# [v1.1: Scraped Out](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v1.1) (2026-01-12)
 * Added an option to disable the (in my opinion) worst minigame, Scrape Off
 * Corrected the medals for Speed Golf 1 & 2 (I don't know where I got 20s and 10s from, they're both 10s and 5s)
 * Corrected the name of the "Quiz 07: Console Screen Insights 1 - Perfect Score" check (it was missing the 1)
 * Fixed a goof in the changelog where I incorrectly said v1.0 was released in 2025
 
-# [v1.0: The first, but not the last release](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v1.0)
-Published: 2026-01-10
+# [v1.0: The first, but not the last release](https://github.com/Iristallite/Switch2WelcomeTour_manual_apworld/releases/tag/release-v1.0) (2026-01-10)
 
 After creating this, it sat for nearly a week before I finally wrote up the readme and released it.  
 Please "enjoy" this manual, hopefully it can add *some* sliver of replay value to Welcome Tour...

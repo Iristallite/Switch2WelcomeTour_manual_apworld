@@ -20,6 +20,7 @@ Manual_Nintendo Switch 2 Welcome Tour_Iristallite:
   accessory_handheld_mode: true
   accessory_microphone: true
   accessory_120hz_display: true
+  accessory_vrr_display: true
   accessory_hdr_display: true
   accessory_4k_display: false
   accessory_camera: false
